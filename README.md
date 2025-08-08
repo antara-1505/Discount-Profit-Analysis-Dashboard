@@ -11,7 +11,7 @@ This Power BI dashboard analyzes sales data from the *ClioMatrix Prelims 2024* d
 
 ## 🗂️ Dataset Summary
 - **Source:** `Data Sheet for Clios Matrix Prelims.xlsx`
-- **Rows:** ~10,000 (assumed)
+- **Rows:** ~1007 
 - **Columns:**
   - `Date`, `Segment`, `City`, `Product`, `Discount Band`
   - `Units Sold`, `Manufacturing Price`, `Sale Price`
