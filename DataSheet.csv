@@ -1,0 +1,1014 @@
+Date,Segment,City,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts, Sales Amt
+01-01-2017,Government,Kolkata,Note Book,High,1618.5,30,40,64740,1294.8,63445.2
+01-01-2017,Government,Delhi,Pencil,Medium,1321,4,14,18494,369.88,18124.12
+01-06-2017,Midmarket,Mumbai,Pen,None,2178,5,15,32670,653.4,32016.6
+01-06-2017,Midmarket,Delhi,Eraser,None,888,3,13,11544,230.88,11313.12
+01-06-2017,Midmarket,Chennai,Note Book,Low,2470,30,40,98800,1976,96824
+01-12-2017,Government,Delhi,Sharpner,None,1513,2,12,18156,363.12,17792.88
+01-03-2017,Midmarket,Delhi,Pencil,Medium,921,4,14,12894,257.88,12636.12
+01-06-2017,Channel Partners,Kolkata,A4 Sheet,High,2518,120,130,327340,6546.8,320793.2
+01-06-2017,Government,Mumbai,Long Note Book,None,1899,40,50,94950,1899,93051
+01-06-2017,Channel Partners,Delhi,Sharpner,Low,1545,2,12,18540,370.8,18169.2
+01-06-2017,Midmarket,Chennai,Cello Tape,Medium,2470,6,16,39520,790.4,38729.6
+01-07-2017,Enterprise,Kolkata,Pen,None,2665.5,5,15,39982.5,799.65,39182.85
+01-08-2017,Small Business,Chennai,A4 Sheet,None,958,120,130,124540,2490.8,122049.2
+01-09-2017,Government,Delhi,Note Book,None,2146,30,40,85840,1716.8,84123.2
+01-10-2017,Enterprise,Kolkata,Cover File,High,345,20,30,10350,207,10143
+01-12-2017,Midmarket,Bangalore,Pen Stand,Low,615,25,35,21525,430.5,21094.5
+01-02-2017,Government,Kolkata,Eraser,None,292,3,13,3796,75.92,3720.08
+01-02-2017,Midmarket,Chennai,Cello Tape,None,974,6,16,15584,311.68,15272.32
+01-06-2017,Channel Partners,Kolkata,Folder,None,2518,10,20,50360,1007.2,49352.8
+01-06-2017,Government,Delhi,A4 Sheet,None,1006,120,130,130780,2615.6,128164.4
+01-07-2017,Channel Partners,Delhi,Long Note Book,Low,367,40,50,18350,367,17983
+01-08-2017,Government,Chennai,Pen,High,883,5,15,13245,264.9,12980.1
+01-09-2017,Midmarket,Mumbai,Sharpner,High,549,2,12,6588,131.76,6456.24
+01-09-2017,Small Business,Chennai,Pen Stand,Medium,788,25,35,27580,551.6,27028.4
+01-09-2017,Midmarket,Chennai,Eraser,Low,2472,3,13,32136,642.72,31493.28
+01-10-2017,Government,Bangalore,Pencil,Low,1143,4,14,16002,320.04,15681.96
+01-11-2017,Government,Kolkata,Note Book,None,1725,30,40,69000,1380,67620
+01-11-2017,Channel Partners,Bangalore,A4 Sheet,None,912,120,130,118560,2371.2,116188.8
+01-12-2017,Midmarket,Kolkata,Pen,None,2152,5,15,32280,645.6,31634.4
+01-12-2017,Government,Kolkata,Sharpner,Low,1817,2,12,21804,436.08,21367.92
+01-12-2017,Government,Delhi,Long Note Book,High,1513,40,50,75650,1513,74137
+01-01-2017,Government,Chennai,Pen,High,1493,5,15,22395,447.9,21947.1
+01-02-2017,Enterprise,Mumbai,Pencil,None,1804,4,14,25256,505.12,24750.88
+01-03-2017,Channel Partners,Delhi,Pen Stand,None,2161,25,35,75635,1512.7,74122.3
+01-06-2017,Government,Delhi,Cover File,Medium,1006,20,30,30180,603.6,29576.4
+01-06-2017,Channel Partners,Delhi,Folder,Medium,1545,10,20,30900,618,30282
+01-08-2017,Enterprise,Bangalore,Sharpner,None,2821,2,12,33852,677.04,33174.96
+01-10-2017,Enterprise,Kolkata,Pencil,None,345,4,14,4830,96.6,4733.4
+01-02-2017,Small Business,Kolkata,A4 Sheet,None,2001,120,130,260130,5202.6,254927.4
+01-04-2017,Channel Partners,Delhi,Folder,Low,2838,10,20,56760,1135.2,55624.8
+01-06-2017,Midmarket,Mumbai,Pen Stand,High,2178,25,35,76230,1524.6,74705.4
+01-06-2017,Midmarket,Delhi,Long Note Book,High,888,40,50,44400,888,43512
+01-09-2017,Government,Mumbai,Sharpner,None,1527,2,12,18324,366.48,17957.52
+01-09-2017,Small Business,Mumbai,Cello Tape,None,2151,6,16,34416,688.32,33727.68
+01-12-2017,Government,Kolkata,Pen Stand,Medium,1817,25,35,63595,1271.9,62323.1
+01-02-2017,Government,Mumbai,Pencil,Medium,2750,4,14,38500,770,37730
+01-04-2017,Channel Partners,Bangalore,Pen,None,1953,5,15,29295,585.9,28709.1
+01-04-2017,Enterprise,Delhi,Cello Tape,None,4219.5,6,16,67512,1350.24,66161.76
+01-06-2017,Government,Mumbai,Pen,None,1899,5,15,28485,569.7,27915.3
+01-07-2017,Government,Delhi,Long Note Book,None,1686,40,50,84300,1686,82614
+01-08-2017,Channel Partners,Bangalore,Note Book,Low,2141,30,40,85640,1712.8,83927.2
+01-10-2017,Government,Bangalore,Cello Tape,High,1143,6,16,18288,365.76,17922.24
+01-12-2017,Midmarket,Bangalore,A4 Sheet,High,615,120,130,79950,1599,78351
+01-01-2017,Government,Mumbai,Folder,None,3945,10,20,78900,1578,77322
+01-02-2017,Midmarket,Mumbai,Pen Stand,None,2296,25,35,80360,1607.2,78752.8
+01-05-2017,Government,Mumbai,Cover File,Medium,1030,20,30,30900,618,30282
+01-11-2017,Government,Mumbai,Note Book,Medium,639,30,40,25560,511.2,25048.8
+01-03-2017,Government,Kolkata,Long Note Book,None,1326,40,50,66300,1326,64974
+01-02-2017,Channel Partners,Bangalore,Eraser,None,1858,3,13,24154,483.08,23670.92
+01-03-2017,Government,Chennai,Pen Stand,None,1210,25,35,42350,847,41503
+01-07-2017,Government,Bangalore,Pencil,Low,2529,4,14,35406,708.12,34697.88
+01-09-2017,Channel Partners,Kolkata,Cello Tape,High,1445,6,16,23120,462.4,22657.6
+01-09-2017,Enterprise,Bangalore,Folder,High,330,10,20,6600,132,6468
+01-09-2017,Channel Partners,Mumbai,Pencil,None,2671,4,14,37394,747.88,36646.12
+01-10-2017,Channel Partners,Delhi,Cover File,None,766,20,30,22980,459.6,22520.4
+01-10-2017,Small Business,Chennai,Eraser,Medium,494,3,13,6422,128.44,6293.56
+01-10-2017,Government,Chennai,Pen,Medium,1397,5,15,20955,419.1,20535.9
+01-12-2017,Government,Mumbai,Pencil,None,2155,4,14,30170,603.4,29566.6
+01-03-2017,Midmarket,Chennai,Cello Tape,None,2214,6,16,35424,708.48,34715.52
+01-04-2017,Small Business,Bangalore,Pen Stand,None,2301,25,35,80535,1610.7,78924.3
+01-07-2017,Government,Mumbai,Pen,None,1375.5,5,15,20632.5,412.65,20219.85
+01-08-2017,Government,Kolkata,Eraser,Low,1830,3,13,23790,475.8,23314.2
+01-09-2017,Small Business,Bangalore,Sharpner,High,2498,2,12,29976,599.52,29376.48
+01-10-2017,Enterprise,Bangalore,A4 Sheet,High,663,120,130,86190,1723.8,84466.2
+01-02-2017,Midmarket,Bangalore,Sharpner,None,1514,2,12,18168,363.36,17804.64
+01-04-2017,Government,Bangalore,Eraser,None,4492.5,3,13,58402.5,1168.05,57234.45
+01-06-2017,Enterprise,Bangalore,Folder,Medium,727,10,20,14540,290.8,14249.2
+01-06-2017,Enterprise,Mumbai,Pen Stand,Medium,787,25,35,27545,550.9,26994.1
+01-07-2017,Enterprise,Chennai,Sharpner,None,1823,2,12,21876,437.52,21438.48
+01-09-2017,Midmarket,Delhi,Cello Tape,None,747,6,16,11952,239.04,11712.96
+01-10-2017,Channel Partners,Delhi,Long Note Book,None,766,40,50,38300,766,37534
+01-11-2017,Small Business,Bangalore,Cello Tape,Low,2905,6,16,46480,929.6,45550.4
+01-12-2017,Government,Mumbai,Pen Stand,High,2155,25,35,75425,1508.5,73916.5
+01-04-2017,Government,Mumbai,Cover File,High,3864,20,30,115920,2318.4,113601.6
+01-05-2017,Government,Chennai,A4 Sheet,None,362,120,130,47060,941.2,46118.8
+01-08-2017,Enterprise,Kolkata,Pencil,None,923,4,14,12922,258.44,12663.56
+01-10-2017,Enterprise,Bangalore,Note Book,Medium,663,30,40,26520,530.4,25989.6
+01-11-2017,Government,Kolkata,Long Note Book,Medium,2092,40,50,104600,2092,102508
+01-03-2017,Government,Delhi,Eraser,None,263,3,13,3419,68.38,3350.62
+01-04-2017,Government,Kolkata,Sharpner,None,943.5,2,12,11322,226.44,11095.56
+01-06-2017,Enterprise,Bangalore,Pencil,None,727,4,14,10178,203.56,9974.44
+01-06-2017,Enterprise,Mumbai,Sharpner,None,787,2,12,9444,188.88,9255.12
+01-09-2017,Small Business,Delhi,Pen,Low,986,5,15,14790,295.8,14494.2
+01-10-2017,Small Business,Chennai,Long Note Book,High,494,40,50,24700,494,24206
+01-10-2017,Government,Chennai,Pen,High,1397,5,15,20955,419.1,20535.9
+01-11-2017,Enterprise,Mumbai,A4 Sheet,None,1744,120,130,226720,4534.4,222185.6
+01-09-2017,Channel Partners,Bangalore,Folder,None,1989,10,20,39780,795.6,38984.4
+01-11-2017,Midmarket,Mumbai,Note Book,Medium,321,30,40,12840,256.8,12583.2
+01-04-2017,Enterprise,Kolkata,Cello Tape,Medium,742.5,6,16,11880,237.6,11642.4
+01-10-2017,Channel Partners,Kolkata,Pen,None,1295,5,15,19425,388.5,19036.5
+01-10-2017,Small Business,Delhi,Cello Tape,None,214,6,16,3424,68.48,3355.52
+01-11-2017,Government,Mumbai,Cover File,None,2145,20,30,64350,1287,63063
+01-12-2017,Government,Kolkata,Cello Tape,Low,2852,6,16,45632,912.64,44719.36
+01-06-2017,Channel Partners,Bangalore,Cover File,High,1142,20,30,34260,685.2,33574.8
+01-10-2017,Government,Bangalore,Folder,High,1566,10,20,31320,626.4,30693.6
+01-11-2017,Channel Partners,Chennai,Long Note Book,None,690,40,50,34500,690,33810
+01-11-2017,Enterprise,Chennai,Cover File,None,1660,20,30,49800,996,48804
+01-02-2017,Midmarket,Kolkata,Eraser,Medium,2363,3,13,30719,614.38,30104.62
+01-05-2017,Small Business,Mumbai,Pen,Medium,918,5,15,13770,275.4,13494.6
+01-05-2017,Small Business,Delhi,Sharpner,None,1728,2,12,20736,414.72,20321.28
+01-06-2017,Channel Partners,Bangalore,Cello Tape,None,1142,6,16,18272,365.44,17906.56
+01-06-2017,Enterprise,Chennai,Pen,None,662,5,15,9930,198.6,9731.4
+01-10-2017,Channel Partners,Kolkata,A4 Sheet,None,1295,120,130,168350,3367,164983
+01-10-2017,Enterprise,Delhi,Folder,Low,809,10,20,16180,323.6,15856.4
+01-10-2017,Enterprise,Chennai,Pen Stand,High,2145,25,35,75075,1501.5,73573.5
+01-11-2017,Channel Partners,Mumbai,Pencil,High,1785,4,14,24990,499.8,24490.2
+01-12-2017,Small Business,Kolkata,Long Note Book,None,1916,40,50,95800,1916,93884
+01-12-2017,Government,Kolkata,Note Book,None,2852,30,40,114080,2281.6,111798.4
+01-12-2017,Enterprise,Kolkata,Cello Tape,Medium,2729,6,16,43664,873.28,42790.72
+01-12-2017,Midmarket,Bangalore,Pen,Medium,1925,5,15,28875,577.5,28297.5
+01-12-2017,Government,Bangalore,Cello Tape,None,2013,6,16,32208,644.16,31563.84
+01-12-2017,Channel Partners,Mumbai,Sharpner,None,1055,2,12,12660,253.2,12406.8
+01-12-2017,Channel Partners,Chennai,Cover File,None,1084,20,30,32520,650.4,31869.6
+01-10-2017,Government,Bangalore,Note Book,Low,1566,30,40,62640,1252.8,61387.2
+01-10-2017,Government,Delhi,Long Note Book,High,2966,40,50,148300,2966,145334
+01-10-2017,Government,Delhi,Sharpner,High,2877,2,12,34524,690.48,33833.52
+01-10-2017,Enterprise,Delhi,Sharpner,None,809,2,12,9708,194.16,9513.84
+01-10-2017,Enterprise,Chennai,Cello Tape,None,2145,6,16,34320,686.4,33633.6
+01-12-2017,Channel Partners,Mumbai,Pencil,Medium,1055,4,14,14770,295.4,14474.6
+01-12-2017,Government,Chennai,Sharpner,Medium,544,2,12,6528,130.56,6397.44
+01-12-2017,Channel Partners,Chennai,Long Note Book,None,1084,40,50,54200,1084,53116
+01-06-2017,Enterprise,Chennai,Pencil,None,662,4,14,9268,185.36,9082.64
+01-10-2017,Small Business,Delhi,Folder,None,214,10,20,4280,85.6,4194.4
+01-10-2017,Government,Delhi,Cello Tape,None,2877,6,16,46032,920.64,45111.36
+01-12-2017,Enterprise,Kolkata,Note Book,Low,2729,30,40,109160,2183.2,106976.8
+01-12-2017,Government,Bangalore,Pen Stand,High,266,25,35,9310,186.2,9123.8
+01-12-2017,Government,Chennai,Pen,High,1940,5,15,29100,582,28518
+01-03-2017,Small Business,Delhi,Pen Stand,None,259,25,35,9065,181.3,8883.7
+01-03-2017,Small Business,Chennai,Eraser,None,1101,3,13,14313,286.26,14026.74
+01-05-2017,Enterprise,Delhi,Sharpner,Medium,2276,2,12,27312,546.24,26765.76
+01-10-2017,Government,Delhi,Cello Tape,Medium,2966,6,16,47456,949.12,46506.88
+01-11-2017,Government,Bangalore,Pen,None,1236,5,15,18540,370.8,18169.2
+01-11-2017,Government,Mumbai,Eraser,None,941,3,13,12233,244.66,11988.34
+01-12-2017,Small Business,Kolkata,Folder,None,1916,10,20,38320,766.4,37553.6
+01-04-2017,Enterprise,Mumbai,Pen,Low,4243.5,5,15,63652.5,1273.05,62379.45
+01-04-2017,Government,Delhi,Sharpner,High,2580,2,12,30960,619.2,30340.8
+01-06-2017,Small Business,Delhi,Long Note Book,High,689,40,50,34450,689,33761
+01-09-2017,Channel Partners,Bangalore,Note Book,None,1947,30,40,77880,1557.6,76322.4
+01-12-2017,Channel Partners,Kolkata,Cello Tape,None,908,6,16,14528,290.56,14237.44
+01-02-2017,Government,Delhi,Pen,Medium,1958,5,15,29370,587.4,28782.6
+01-06-2017,Channel Partners,Mumbai,Long Note Book,Medium,1901,40,50,95050,1901,93149
+01-09-2017,Government,Mumbai,Cello Tape,None,544,6,16,8704,174.08,8529.92
+01-09-2017,Government,Delhi,Cello Tape,None,1797,6,16,28752,575.04,28176.96
+01-12-2017,Enterprise,Mumbai,A4 Sheet,None,1287,120,130,167310,3346.2,163963.8
+01-12-2017,Enterprise,Delhi,Pen Stand,None,1706,25,35,59710,1194.2,58515.8
+01-01-2017,Small Business,Mumbai,Pencil,Low,2434.5,4,14,34083,681.66,33401.34
+01-03-2017,Enterprise,Kolkata,Note Book,High,1774,30,40,70960,1419.2,69540.8
+01-06-2017,Channel Partners,Mumbai,Cover File,High,1901,20,30,57030,1140.6,55889.4
+01-06-2017,Small Business,Delhi,A4 Sheet,None,689,120,130,89570,1791.4,87778.6
+01-06-2017,Enterprise,Delhi,Note Book,None,1570,30,40,62800,1256,61544
+01-07-2017,Channel Partners,Bangalore,Pen Stand,Medium,1369.5,25,35,47932.5,958.65,46973.85
+01-10-2017,Enterprise,Kolkata,Cover File,Medium,2009,20,30,60270,1205.4,59064.6
+01-10-2017,Midmarket,Delhi,Pencil,None,1945,4,14,27230,544.6,26685.4
+01-12-2017,Enterprise,Mumbai,Sharpner,None,1287,2,12,15444,308.88,15135.12
+01-12-2017,Enterprise,Delhi,Pen,None,1706,5,15,25590,511.8,25078.2
+01-10-2017,Enterprise,Kolkata,Long Note Book,Low,2009,40,50,100450,2009,98441
+01-02-2017,Small Business,Bangalore,Long Note Book,High,2844,40,50,142200,2844,139356
+01-04-2017,Channel Partners,Chennai,Eraser,High,1916,3,13,24908,498.16,24409.84
+01-06-2017,Enterprise,Delhi,Cello Tape,None,1570,6,16,25120,502.4,24617.6
+01-08-2017,Small Business,Kolkata,Cello Tape,None,1874,6,16,29984,599.68,29384.32
+01-08-2017,Government,Chennai,Cello Tape,Medium,1642,6,16,26272,525.44,25746.56
+01-10-2017,Midmarket,Delhi,A4 Sheet,Medium,1945,120,130,252850,5057,247793
+01-05-2017,Government,Kolkata,Sharpner,None,831,2,12,9972,199.44,9772.56
+01-09-2017,Government,Chennai,Eraser,None,1760,3,13,22880,457.6,22422.4
+01-04-2017,Government,Kolkata,Long Note Book,None,3850.5,40,50,192525,3850.5,188674.5
+01-01-2017,Channel Partners,Delhi,Pen Stand,None,2479,25,35,86765,1735.3,85029.7
+01-10-2017,Midmarket,Chennai,Folder,Low,2031,10,20,40620,812.4,39807.6
+01-10-2017,Midmarket,Chennai,Note Book,High,2031,30,40,81240,1624.8,79615.2
+01-12-2017,Midmarket,Mumbai,Pen,High,2261,5,15,33915,678.3,33236.7
+01-09-2017,Government,Bangalore,Long Note Book,None,736,40,50,36800,736,36064
+01-10-2017,Government,Kolkata,Cello Tape,None,2851,6,16,45616,912.32,44703.68
+01-10-2017,Small Business,Delhi,Eraser,Medium,2021,3,13,26273,525.46,25747.54
+01-12-2017,Government,Bangalore,Pencil,Medium,274,4,14,3836,76.72,3759.28
+01-03-2017,Midmarket,Kolkata,Pencil,None,1967,4,14,27538,550.76,26987.24
+01-08-2017,Small Business,Delhi,Cello Tape,None,1859,6,16,29744,594.88,29149.12
+01-10-2017,Government,Kolkata,Sharpner,None,2851,2,12,34212,684.24,33527.76
+01-10-2017,Small Business,Delhi,Long Note Book,Low,2021,40,50,101050,2021,99029
+01-12-2017,Enterprise,Chennai,Pencil,High,1138,4,14,15932,318.64,15613.36
+01-01-2017,Government,Kolkata,Pen,High,4251,5,15,63765,1275.3,62489.7
+01-03-2017,Enterprise,Delhi,Cello Tape,None,795,6,16,12720,254.4,12465.6
+01-04-2017,Small Business,Delhi,Pen,None,1414.5,5,15,21217.5,424.35,20793.15
+01-05-2017,Small Business,Bangalore,A4 Sheet,Medium,2918,120,130,379340,7586.8,371753.2
+01-07-2017,Government,Bangalore,Pen,Medium,3450,5,15,51750,1035,50715
+01-07-2017,Enterprise,Mumbai,Cello Tape,None,2988,6,16,47808,956.16,46851.84
+01-09-2017,Midmarket,Kolkata,Folder,None,218,10,20,4360,87.2,4272.8
+01-09-2017,Government,Kolkata,Long Note Book,None,2074,40,50,103700,2074,101626
+01-09-2017,Government,Bangalore,Pen Stand,None,1056,25,35,36960,739.2,36220.8
+01-10-2017,Midmarket,Bangalore,Pen,Low,671,5,15,10065,201.3,9863.7
+01-10-2017,Midmarket,Chennai,Pencil,High,1514,4,14,21196,423.92,20772.08
+01-12-2017,Government,Bangalore,Folder,High,274,10,20,5480,109.6,5370.4
+01-12-2017,Enterprise,Chennai,Note Book,None,1138,30,40,45520,910.4,44609.6
+01-03-2017,Channel Partners,Bangalore,Cover File,None,1465,20,30,43950,879,43071
+01-09-2017,Government,Kolkata,Note Book,Medium,2646,30,40,105840,2116.8,103723.2
+01-10-2017,Government,Mumbai,Sharpner,Medium,2177,2,12,26124,522.48,25601.52
+01-05-2017,Channel Partners,Mumbai,Pen Stand,None,866,25,35,30310,606.2,29703.8
+01-09-2017,Government,Bangalore,Pencil,None,349,4,14,4886,97.72,4788.28
+01-10-2017,Government,Mumbai,Sharpner,None,2177,2,12,26124,522.48,25601.52
+01-10-2017,Midmarket,Chennai,Sharpner,Low,1514,2,12,18168,363.36,17804.64
+01-02-2017,Government,Chennai,Cello Tape,High,1865,6,16,29840,596.8,29243.2
+01-04-2017,Enterprise,Chennai,Eraser,High,1074,3,13,13962,279.24,13682.76
+01-09-2017,Government,Delhi,Long Note Book,None,1907,40,50,95350,1907,93443
+01-10-2017,Midmarket,Bangalore,Cover File,None,671,20,30,20130,402.6,19727.4
+01-12-2017,Government,Kolkata,Pen,Medium,1778,5,15,26670,533.4,26136.6
+01-10-2017,Government,Delhi,Pencil,Medium,1159,4,14,16226,324.52,15901.48
+01-01-2017,Government,Delhi,Long Note Book,None,1372,40,50,68600,1372,67228
+01-09-2017,Government,Kolkata,Pen,None,2349,5,15,35235,704.7,34530.3
+01-10-2017,Government,Chennai,Long Note Book,None,2689,40,50,134450,2689,131761
+01-12-2017,Channel Partners,Kolkata,Pen,None,2431,5,15,36465,729.3,35735.7
+01-12-2017,Channel Partners,Kolkata,Cello Tape,Low,2431,6,16,38896,777.92,38118.08
+01-10-2017,Government,Chennai,A4 Sheet,High,2689,120,130,349570,6991.4,342578.6
+01-07-2017,Government,Chennai,Pen Stand,High,1683,25,35,58905,1178.1,57726.9
+01-08-2017,Channel Partners,Chennai,Pencil,None,1123,4,14,15722,314.44,15407.56
+01-10-2017,Government,Delhi,Pen,None,1159,5,15,17385,347.7,17037.3
+01-02-2017,Channel Partners,Mumbai,Pen,Medium,1865,5,15,27975,559.5,27415.5
+01-02-2017,Channel Partners,Delhi,Cello Tape,Medium,1116,6,16,17856,357.12,17498.88
+01-05-2017,Government,Mumbai,Pencil,None,1563,4,14,21882,437.64,21444.36
+01-06-2017,Small Business,Bangalore,Note Book,None,991,30,40,39640,792.8,38847.2
+01-11-2017,Government,Delhi,Long Note Book,None,1016,40,50,50800,1016,49784
+01-11-2017,Midmarket,Chennai,A4 Sheet,Low,2791,120,130,362830,7256.6,355573.4
+01-12-2017,Government,Bangalore,Cello Tape,High,570,6,16,9120,182.4,8937.6
+01-12-2017,Government,Mumbai,Pencil,High,2487,4,14,34818,696.36,34121.64
+01-01-2017,Government,Mumbai,Folder,None,1384.5,10,20,27690,553.8,27136.2
+01-07-2017,Enterprise,Bangalore,A4 Sheet,None,3627,120,130,471510,9430.2,462079.8
+01-09-2017,Government,Chennai,Pen Stand,Medium,720,25,35,25200,504,24696
+01-11-2017,Channel Partners,Delhi,Pen,Medium,2342,5,15,35130,702.6,34427.4
+01-12-2017,Small Business,Chennai,Cello Tape,None,1100,6,16,17600,352,17248
+01-02-2017,Government,Mumbai,Pencil,None,1303,4,14,18242,364.84,17877.16
+01-03-2017,Enterprise,Bangalore,Pen Stand,None,2992,25,35,104720,2094.4,102625.6
+01-03-2017,Enterprise,Mumbai,Eraser,None,2385,3,13,31005,620.1,30384.9
+01-04-2017,Small Business,Chennai,Eraser,Low,1607,3,13,20891,417.82,20473.18
+01-05-2017,Government,Bangalore,Cover File,High,2327,20,30,69810,1396.2,68413.8
+01-06-2017,Small Business,Bangalore,Pencil,High,991,4,14,13874,277.48,13596.52
+01-06-2017,Government,Bangalore,Note Book,None,602,30,40,24080,481.6,23598.4
+01-09-2017,Midmarket,Mumbai,Cello Tape,None,2620,6,16,41920,838.4,41081.6
+01-10-2017,Government,Kolkata,Cello Tape,Medium,1228,6,16,19648,392.96,19255.04
+01-10-2017,Government,Kolkata,Pen,Medium,1389,5,15,20835,416.7,20418.3
+01-10-2017,Enterprise,Bangalore,Cello Tape,None,861,6,16,13776,275.52,13500.48
+01-10-2017,Enterprise,Mumbai,Sharpner,None,704,2,12,8448,168.96,8279.04
+01-12-2017,Government,Kolkata,Long Note Book,None,1802,40,50,90100,1802,88298
+01-12-2017,Government,Bangalore,Long Note Book,Low,2663,40,50,133150,2663,130487
+01-12-2017,Government,Mumbai,Pen,High,2136,5,15,32040,640.8,31399.2
+01-12-2017,Midmarket,Delhi,Long Note Book,High,2116,40,50,105800,2116,103684
+01-01-2017,Midmarket,Bangalore,Note Book,None,555,30,40,22200,444,21756
+01-01-2017,Midmarket,Chennai,Long Note Book,None,2861,40,50,143050,2861,140189
+01-02-2017,Enterprise,Delhi,Eraser,Medium,807,3,13,10491,209.82,10281.18
+01-06-2017,Government,Bangalore,Eraser,Medium,602,3,13,7826,156.52,7669.48
+01-08-2017,Government,Bangalore,Sharpner,None,2832,2,12,33984,679.68,33304.32
+01-08-2017,Government,Mumbai,Pen Stand,None,1579,25,35,55265,1105.3,54159.7
+01-10-2017,Enterprise,Mumbai,Folder,None,704,10,20,14080,281.6,13798.4
+01-12-2017,Government,Mumbai,Cover File,Low,1033,20,30,30990,619.8,30370.2
+01-12-2017,Small Business,Delhi,Sharpner,High,1250,2,12,15000,300,14700
+01-10-2017,Government,Kolkata,Pen,High,1389,5,15,20835,416.7,20418.3
+01-11-2017,Government,Bangalore,Note Book,None,1265,30,40,50600,1012,49588
+01-11-2017,Government,Delhi,Long Note Book,None,2297,40,50,114850,2297,112553
+01-12-2017,Government,Bangalore,Cover File,Medium,2663,20,30,79890,1597.8,78292.2
+01-12-2017,Government,Bangalore,Pen,Medium,570,5,15,8550,171,8379
+01-12-2017,Government,Mumbai,Pencil,None,2487,4,14,34818,696.36,34121.64
+01-02-2017,Government,Delhi,Cover File,None,1350,20,30,40500,810,39690
+01-08-2017,Government,Kolkata,Eraser,None,552,3,13,7176,143.52,7032.48
+01-10-2017,Government,Kolkata,Cover File,Low,1228,20,30,36840,736.8,36103.2
+01-12-2017,Small Business,Delhi,Cover File,High,1250,20,30,37500,750,36750
+01-04-2017,Midmarket,Mumbai,Pen,High,3801,5,15,57015,1140.3,55874.7
+01-01-2017,Government,Bangalore,Sharpner,None,1117.5,2,12,13410,268.2,13141.8
+01-06-2017,Midmarket,Kolkata,Long Note Book,None,2844,40,50,142200,2844,139356
+01-09-2017,Channel Partners,Chennai,Pencil,Medium,562,4,14,7868,157.36,7710.64
+01-10-2017,Channel Partners,Kolkata,Eraser,Medium,2299,3,13,29887,597.74,29289.26
+01-11-2017,Midmarket,Bangalore,Long Note Book,None,2030,40,50,101500,2030,99470
+01-11-2017,Government,Bangalore,Long Note Book,None,263,40,50,13150,263,12887
+01-12-2017,Enterprise,Delhi,Sharpner,None,887,2,12,10644,212.88,10431.12
+01-04-2017,Government,Chennai,Pen,None,980,5,15,14700,294,14406
+01-05-2017,Government,Delhi,Pen Stand,Low,1460,25,35,51100,1022,50078
+01-10-2017,Government,Mumbai,Cello Tape,High,1403,6,16,22448,448.96,21999.04
+01-11-2017,Channel Partners,Bangalore,Pen,High,2723,5,15,40845,816.9,40028.1
+01-06-2017,Government,Mumbai,Sharpner,None,1496,2,12,17952,359.04,17592.96
+01-10-2017,Channel Partners,Kolkata,Folder,None,2299,10,20,45980,919.6,45060.4
+01-10-2017,Government,Bangalore,Eraser,Medium,727,3,13,9451,189.02,9261.98
+01-02-2017,Enterprise,Kolkata,Sharpner,Medium,952,2,12,11424,228.48,11195.52
+01-02-2017,Enterprise,Bangalore,Eraser,None,2755,3,13,35815,716.3,35098.7
+01-05-2017,Midmarket,Delhi,Pencil,None,1530,4,14,21420,428.4,20991.6
+01-06-2017,Government,Mumbai,Cello Tape,None,1496,6,16,23936,478.72,23457.28
+01-06-2017,Government,Chennai,Pencil,Low,1498,4,14,20972,419.44,20552.56
+01-10-2017,Small Business,Mumbai,Note Book,High,1221,30,40,48840,976.8,47863.2
+01-10-2017,Government,Mumbai,A4 Sheet,High,2076,120,130,269880,5397.6,264482.4
+01-06-2017,Midmarket,Kolkata,Cello Tape,None,2844,6,16,45504,910.08,44593.92
+01-06-2017,Government,Chennai,Cello Tape,None,1498,6,16,23968,479.36,23488.64
+01-10-2017,Small Business,Mumbai,Pencil,Medium,1221,4,14,17094,341.88,16752.12
+01-11-2017,Government,Chennai,Pencil,Medium,1123,4,14,15722,314.44,15407.56
+01-12-2017,Small Business,Kolkata,Sharpner,None,2436,2,12,29232,584.64,28647.36
+01-01-2017,Enterprise,Mumbai,Cello Tape,None,1987.5,6,16,31800,636,31164
+01-09-2017,Government,Chennai,Eraser,None,1679,3,13,21827,436.54,21390.46
+01-10-2017,Government,Bangalore,Eraser,None,727,3,13,9451,189.02,9261.98
+01-10-2017,Government,Mumbai,Long Note Book,Low,1403,40,50,70150,1403,68747
+01-10-2017,Government,Mumbai,Pen Stand,High,1757,25,35,61495,1229.9,60265.1
+01-08-2017,Midmarket,Bangalore,Pen Stand,None,2198,25,35,76930,1538.6,75391.4
+01-08-2017,Midmarket,Delhi,Pen,None,1743,5,15,26145,522.9,25622.1
+01-10-2017,Midmarket,Bangalore,Cello Tape,Medium,1153,6,16,18448,368.96,18079.04
+01-10-2017,Government,Mumbai,Pen Stand,Medium,1757,25,35,61495,1229.9,60265.1
+01-08-2017,Government,Delhi,Pen,None,1001,5,15,15015,300.3,14714.7
+01-11-2017,Government,Chennai,Sharpner,None,1333,2,12,15996,319.92,15676.08
+01-10-2017,Midmarket,Bangalore,Long Note Book,None,1153,40,50,57650,1153,56497
+01-02-2017,Channel Partners,Chennai,Pen,Low,727,5,15,10905,218.1,10686.9
+01-08-2017,Channel Partners,Kolkata,Eraser,High,1884,3,13,24492,489.84,24002.16
+01-09-2017,Government,Chennai,Long Note Book,High,1834,40,50,91700,1834,89866
+01-01-2017,Channel Partners,Chennai,Pen,None,2340,5,15,35100,702,34398
+01-11-2017,Channel Partners,Mumbai,Note Book,None,2342,30,40,93680,1873.6,91806.4
+01-09-2017,Government,Mumbai,Sharpner,Medium,1031,2,12,12372,247.44,12124.56
+01-05-2017,Midmarket,Kolkata,Long Note Book,Medium,1262,40,50,63100,1262,61838
+01-06-2017,Government,Kolkata,Eraser,None,1135,3,13,14755,295.1,14459.9
+01-11-2017,Government,Bangalore,Sharpner,None,547,2,12,6564,131.28,6432.72
+01-12-2017,Government,Kolkata,Note Book,None,1582,30,40,63280,1265.6,62014.4
+01-04-2017,Channel Partners,Mumbai,Eraser,None,1738.5,3,13,22600.5,452.01,22148.49
+01-09-2017,Channel Partners,Delhi,Pen Stand,Low,2215,25,35,77525,1550.5,75974.5
+01-12-2017,Government,Kolkata,Cover File,High,1582,20,30,47460,949.2,46510.8
+01-06-2017,Government,Kolkata,Long Note Book,High,1135,40,50,56750,1135,55615
+01-03-2017,Government,Bangalore,Cello Tape,None,1761,6,16,28176,563.52,27612.48
+01-06-2017,Small Business,Mumbai,Note Book,None,448,30,40,17920,358.4,17561.6
+01-10-2017,Small Business,Mumbai,Pencil,Medium,2181,4,14,30534,610.68,29923.32
+01-10-2017,Government,Mumbai,Pen,Medium,1976,5,15,29640,592.8,29047.2
+01-10-2017,Small Business,Mumbai,Eraser,None,2181,3,13,28353,567.06,27785.94
+01-11-2017,Enterprise,Delhi,Note Book,None,2500,30,40,100000,2000,98000
+01-05-2017,Small Business,Kolkata,Sharpner,None,1702,2,12,20424,408.48,20015.52
+01-06-2017,Small Business,Mumbai,Pencil,Low,448,4,14,6272,125.44,6146.56
+01-07-2017,Enterprise,Delhi,A4 Sheet,High,3513,120,130,456690,9133.8,447556.2
+01-08-2017,Midmarket,Mumbai,Long Note Book,High,2101,40,50,105050,2101,102949
+01-09-2017,Midmarket,Bangalore,Sharpner,None,2931,2,12,35172,703.44,34468.56
+01-09-2017,Government,Mumbai,Cello Tape,None,1535,6,16,24560,491.2,24068.8
+01-09-2017,Small Business,Delhi,Pen,Medium,1123,5,15,16845,336.9,16508.1
+01-11-2017,Small Business,Kolkata,A4 Sheet,Medium,1404,120,130,182520,3650.4,178869.6
+01-11-2017,Channel Partners,Chennai,Note Book,None,2763,30,40,110520,2210.4,108309.6
+01-12-2017,Government,Delhi,Cover File,None,2125,20,30,63750,1275,62475
+01-07-2017,Small Business,Mumbai,Pen Stand,None,1659,25,35,58065,1161.3,56903.7
+01-08-2017,Government,Chennai,Eraser,None,609,3,13,7917,158.34,7758.66
+01-09-2017,Enterprise,Delhi,Cello Tape,Low,2087,6,16,33392,667.84,32724.16
+01-10-2017,Government,Mumbai,Folder,High,1976,10,20,39520,790.4,38729.6
+01-12-2017,Government,Bangalore,A4 Sheet,High,1421,120,130,184730,3694.6,181035.4
+01-12-2017,Small Business,Bangalore,Long Note Book,None,1372,40,50,68600,1372,67228
+01-12-2017,Government,Delhi,Pen,None,588,5,15,8820,176.4,8643.6
+01-01-2017,Channel Partners,Kolkata,Sharpner,Medium,3244.5,2,12,38934,778.68,38155.32
+01-02-2017,Small Business,Mumbai,Pen Stand,Medium,959,25,35,33565,671.3,32893.7
+01-02-2017,Small Business,Chennai,Eraser,None,2747,3,13,35711,714.22,34996.78
+01-05-2017,Enterprise,Kolkata,Pencil,None,1645,4,14,23030,460.6,22569.4
+01-09-2017,Government,Mumbai,Note Book,None,2876,30,40,115040,2300.8,112739.2
+01-09-2017,Enterprise,Delhi,A4 Sheet,Low,994,120,130,129220,2584.4,126635.6
+01-11-2017,Government,Kolkata,Pen,High,1118,5,15,16770,335.4,16434.6
+01-12-2017,Small Business,Bangalore,Sharpner,High,1372,2,12,16464,329.28,16134.72
+01-02-2017,Government,Kolkata,Long Note Book,None,488,40,50,24400,488,23912
+01-06-2017,Government,Bangalore,Pen,None,1282,5,15,19230,384.6,18845.4
+01-05-2017,Government,Kolkata,Pencil,Medium,257,4,14,3598,71.96,3526.04
+01-06-2017,Government,Bangalore,Pen Stand,Medium,1282,25,35,44870,897.4,43972.6
+01-08-2017,Enterprise,Chennai,Cover File,None,1540,20,30,46200,924,45276
+01-11-2017,Midmarket,Mumbai,Folder,None,490,10,20,9800,196,9604
+01-12-2017,Government,Chennai,Sharpner,None,1362,2,12,16344,326.88,16017.12
+01-03-2017,Midmarket,Mumbai,Pencil,None,2501,4,14,35014,700.28,34313.72
+01-06-2017,Government,Kolkata,A4 Sheet,Low,708,120,130,92040,1840.8,90199.2
+01-07-2017,Government,Delhi,Folder,High,645,10,20,12900,258,12642
+01-08-2017,Small Business,Mumbai,Pen Stand,High,1562,25,35,54670,1093.4,53576.6
+01-09-2017,Small Business,Kolkata,Long Note Book,None,1283,40,50,64150,1283,62867
+01-12-2017,Midmarket,Delhi,Sharpner,None,711,2,12,8532,170.64,8361.36
+01-03-2017,Enterprise,Chennai,Cello Tape,Medium,1114,6,16,17824,356.48,17467.52
+01-04-2017,Government,Delhi,Pen Stand,Medium,1259,25,35,44065,881.3,43183.7
+01-05-2017,Government,Delhi,Pencil,None,1095,4,14,15330,306.6,15023.4
+01-06-2017,Government,Delhi,Pen,None,1366,5,15,20490,409.8,20080.2
+01-06-2017,Small Business,Chennai,Cello Tape,None,2460,6,16,39360,787.2,38572.8
+01-08-2017,Government,Bangalore,Pen,Low,678,5,15,10170,203.4,9966.6
+01-08-2017,Government,Delhi,Long Note Book,High,1598,40,50,79900,1598,78302
+01-09-2017,Government,Delhi,Note Book,High,2409,30,40,96360,1927.2,94432.8
+01-09-2017,Government,Delhi,Cello Tape,None,1934,6,16,30944,618.88,30325.12
+01-09-2017,Government,Chennai,A4 Sheet,None,2993,120,130,389090,7781.8,381308.2
+01-11-2017,Government,Delhi,Folder,Medium,2146,10,20,42920,858.4,42061.6
+01-12-2017,Government,Chennai,Pen Stand,Medium,1946,25,35,68110,1362.2,66747.8
+01-12-2017,Government,Chennai,Cover File,None,1362,20,30,40860,817.2,40042.8
+01-03-2017,Channel Partners,Kolkata,Note Book,None,598,30,40,23920,478.4,23441.6
+01-06-2017,Government,Bangalore,Long Note Book,None,2907,40,50,145350,2907,142443
+01-06-2017,Government,Delhi,Eraser,None,2338,3,13,30394,607.88,29786.12
+01-11-2017,Small Business,Mumbai,Pen Stand,Low,386,25,35,13510,270.2,13239.8
+01-12-2017,Small Business,Chennai,Pencil,High,635,4,14,8890,177.8,8712.2
+01-04-2017,Government,Mumbai,Cello Tape,High,574.5,6,16,9192,183.84,9008.16
+01-06-2017,Government,Delhi,Folder,None,2338,10,20,46760,935.2,45824.8
+01-08-2017,Government,Mumbai,Pencil,None,381,4,14,5334,106.68,5227.32
+01-08-2017,Government,Delhi,Cover File,Medium,422,20,30,12660,253.2,12406.8
+01-09-2017,Small Business,Kolkata,Eraser,Medium,2134,3,13,27742,554.84,27187.16
+01-12-2017,Small Business,Bangalore,Pen,None,808,5,15,12120,242.4,11877.6
+01-06-2017,Government,Kolkata,Pencil,None,708,4,14,9912,198.24,9713.76
+01-06-2017,Government,Bangalore,Cello Tape,None,2907,6,16,46512,930.24,45581.76
+01-06-2017,Government,Delhi,Pen Stand,Low,1366,25,35,47810,956.2,46853.8
+01-06-2017,Small Business,Chennai,Pen,High,2460,5,15,36900,738,36162
+01-11-2017,Government,Delhi,Eraser,High,1520,3,13,19760,395.2,19364.8
+01-12-2017,Channel Partners,Chennai,A4 Sheet,None,1375,120,130,178750,3575,175175
+01-12-2017,Small Business,Chennai,Sharpner,Medium,635,2,12,7620,152.4,7467.6
+01-07-2017,Government,Bangalore,Eraser,Medium,436.5,3,13,5674.5,113.49,5561.01
+01-06-2017,Small Business,Kolkata,Folder,None,1094,10,20,21880,437.6,21442.4
+01-10-2017,Channel Partners,Chennai,Pen Stand,None,367,25,35,12845,256.9,12588.1
+01-04-2017,Small Business,Kolkata,Sharpner,None,3802.5,2,12,45630,912.6,44717.4
+01-05-2017,Government,Mumbai,Cello Tape,None,1666,6,16,26656,533.12,26122.88
+01-09-2017,Small Business,Mumbai,Long Note Book,Low,322,40,50,16100,322,15778
+01-11-2017,Channel Partners,Kolkata,Cello Tape,High,2321,6,16,37136,742.72,36393.28
+01-11-2017,Enterprise,Mumbai,Pen Stand,High,1857,25,35,64995,1299.9,63695.1
+01-12-2017,Government,Kolkata,Cover File,None,1611,20,30,48330,966.6,47363.4
+01-12-2017,Enterprise,Bangalore,A4 Sheet,None,2797,120,130,363610,7272.2,356337.8
+01-12-2017,Small Business,Delhi,Pencil,Medium,334,4,14,4676,93.52,4582.48
+01-01-2017,Small Business,Chennai,Note Book,Medium,2565,30,40,102600,2052,100548
+01-01-2017,Government,Chennai,Long Note Book,None,2417,40,50,120850,2417,118433
+01-04-2017,Midmarket,Bangalore,Eraser,None,3675,3,13,47775,955.5,46819.5
+01-06-2017,Small Business,Kolkata,Sharpner,None,1094,2,12,13128,262.56,12865.44
+01-10-2017,Midmarket,Mumbai,Pencil,Low,1227,4,14,17178,343.56,16834.44
+01-10-2017,Channel Partners,Chennai,Sharpner,High,367,2,12,4404,88.08,4315.92
+01-11-2017,Small Business,Mumbai,Pen,High,1324,5,15,19860,397.2,19462.8
+01-11-2017,Channel Partners,Delhi,Long Note Book,None,1775,40,50,88750,1775,86975
+01-12-2017,Enterprise,Bangalore,Pen,None,2797,5,15,41955,839.1,41115.9
+01-05-2017,Midmarket,Chennai,A4 Sheet,Medium,245,120,130,31850,637,31213
+01-07-2017,Small Business,Kolkata,Folder,Medium,3793.5,10,20,75870,1517.4,74352.6
+01-07-2017,Government,Delhi,Note Book,None,1307,30,40,52280,1045.6,51234.4
+01-09-2017,Enterprise,Kolkata,Cello Tape,None,567,6,16,9072,181.44,8890.56
+01-09-2017,Enterprise,Chennai,Pen,None,2110,5,15,31650,633,31017
+01-10-2017,Government,Kolkata,Cello Tape,None,1269,6,16,20304,406.08,19897.92
+01-01-2017,Channel Partners,Bangalore,Cover File,Low,1956,20,30,58680,1173.6,57506.4
+01-02-2017,Small Business,Delhi,Cello Tape,High,2659,6,16,42544,850.88,41693.12
+01-04-2017,Government,Bangalore,Cover File,High,1351.5,20,30,40545,810.9,39734.1
+01-05-2017,Channel Partners,Delhi,Folder,None,880,10,20,17600,352,17248
+01-09-2017,Small Business,Bangalore,Long Note Book,None,1867,40,50,93350,1867,91483
+01-09-2017,Channel Partners,Mumbai,Cover File,Medium,2234,20,30,67020,1340.4,65679.6
+01-10-2017,Midmarket,Mumbai,Eraser,Medium,1227,3,13,15951,319.02,15631.98
+01-11-2017,Enterprise,Chennai,Pen,None,877,5,15,13155,263.1,12891.9
+01-09-2017,Government,Bangalore,Sharpner,None,2071,2,12,24852,497.04,24354.96
+01-11-2017,Midmarket,Delhi,Pen,Low,970,5,15,14550,291,14259
+01-11-2017,Government,Chennai,A4 Sheet,High,1694,120,130,220220,4404.4,215815.6
+01-05-2017,Government,Delhi,Folder,High,663,10,20,13260,265.2,12994.8
+01-07-2017,Government,Kolkata,Pen Stand,None,819,25,35,28665,573.3,28091.7
+01-09-2017,Channel Partners,Delhi,Pencil,None,1580,4,14,22120,442.4,21677.6
+01-12-2017,Government,Chennai,Long Note Book,Medium,521,40,50,26050,521,25529
+01-03-2017,Government,Bangalore,Note Book,Medium,973,30,40,38920,778.4,38141.6
+01-06-2017,Government,Chennai,Cello Tape,None,1038,6,16,16608,332.16,16275.84
+01-10-2017,Government,Delhi,Pen,None,360,5,15,5400,108,5292
+01-03-2017,Channel Partners,Mumbai,Cello Tape,None,1967,6,16,31472,629.44,30842.56
+01-04-2017,Midmarket,Chennai,Sharpner,None,2628,2,12,31536,630.72,30905.28
+01-10-2017,Government,Delhi,Cover File,Low,360,20,30,10800,216,10584
+01-11-2017,Government,Mumbai,Note Book,High,2682,30,40,107280,2145.6,105134.4
+01-12-2017,Government,Chennai,Long Note Book,High,521,40,50,26050,521,25529
+01-06-2017,Government,Chennai,Sharpner,None,1038,2,12,12456,249.12,12206.88
+01-07-2017,Midmarket,Kolkata,Sharpner,None,1630.5,2,12,19566,391.32,19174.68
+01-12-2017,Channel Partners,Mumbai,Cello Tape,Medium,306,6,16,4896,97.92,4798.08
+01-10-2017,Channel Partners,Bangalore,Pencil,Medium,386,4,14,5404,108.08,5295.92
+01-09-2017,Government,Bangalore,Sharpner,None,2328,2,12,27936,558.72,27377.28
+01-10-2017,Channel Partners,Bangalore,Long Note Book,None,386,40,50,19300,386,18914
+01-04-2017,Enterprise,Bangalore,Pencil,None,3445.5,4,14,48237,964.74,47272.26
+01-12-2017,Enterprise,Mumbai,Folder,Low,1482,10,20,29640,592.8,29047.2
+01-05-2017,Government,Bangalore,Cello Tape,High,2313,6,16,37008,740.16,36267.84
+01-11-2017,Enterprise,Bangalore,Note Book,High,1804,30,40,72160,1443.2,70716.8
+01-12-2017,Midmarket,Mumbai,Pen Stand,None,2072,25,35,72520,1450.4,71069.6
+01-03-2017,Government,Mumbai,Pen,None,1954,5,15,29310,586.2,28723.8
+01-05-2017,Small Business,Chennai,Pen Stand,Medium,591,25,35,20685,413.7,20271.3
+01-10-2017,Midmarket,Mumbai,Eraser,Medium,2167,3,13,28171,563.42,27607.58
+01-10-2017,Government,Delhi,Sharpner,None,241,2,12,2892,57.84,2834.16
+01-01-2017,Midmarket,Delhi,Cello Tape,None,681,6,16,10896,217.92,10678.08
+01-04-2017,Midmarket,Delhi,Pen,None,510,5,15,7650,153,7497
+01-05-2017,Midmarket,Bangalore,Eraser,None,790,3,13,10270,205.4,10064.6
+01-07-2017,Government,Mumbai,Folder,Low,639,10,20,12780,255.6,12524.4
+01-09-2017,Enterprise,Bangalore,Pen,High,1596,5,15,23940,478.8,23461.2
+01-10-2017,Small Business,Bangalore,Sharpner,High,2294,2,12,27528,550.56,26977.44
+01-10-2017,Government,Delhi,Long Note Book,None,241,40,50,12050,241,11809
+01-11-2017,Government,Delhi,Note Book,None,2665,30,40,106600,2132,104468
+01-12-2017,Enterprise,Kolkata,Cello Tape,Medium,1916,6,16,30656,613.12,30042.88
+01-12-2017,Small Business,Mumbai,Pen,Medium,853,5,15,12795,255.9,12539.1
+01-05-2017,Enterprise,Chennai,Long Note Book,None,341,40,50,17050,341,16709
+01-07-2017,Midmarket,Chennai,Cello Tape,None,641,6,16,10256,205.12,10050.88
+01-08-2017,Government,Bangalore,Cello Tape,None,2807,6,16,44912,898.24,44013.76
+01-09-2017,Small Business,Chennai,A4 Sheet,Low,432,120,130,56160,1123.2,55036.8
+01-10-2017,Small Business,Bangalore,Pen Stand,High,2294,25,35,80290,1605.8,78684.2
+01-10-2017,Midmarket,Mumbai,Pencil,High,2167,4,14,30338,606.76,29731.24
+01-11-2017,Enterprise,Kolkata,Note Book,None,2529,30,40,101160,2023.2,99136.8
+01-12-2017,Government,Delhi,Cover File,None,1870,20,30,56100,1122,54978
+01-01-2017,Enterprise,Bangalore,A4 Sheet,Medium,579,120,130,75270,1505.4,73764.6
+01-02-2017,Government,Kolkata,Note Book,Medium,2240,30,40,89600,1792,87808
+01-03-2017,Small Business,Bangalore,Pen Stand,None,2993,25,35,104755,2095.1,102659.9
+01-04-2017,Channel Partners,Kolkata,Cover File,None,3520.5,20,30,105615,2112.3,103502.7
+01-05-2017,Government,Chennai,Pencil,None,2039,4,14,28546,570.92,27975.08
+01-08-2017,Channel Partners,Delhi,Sharpner,None,2574,2,12,30888,617.76,30270.24
+01-09-2017,Government,Kolkata,Pen,Low,707,5,15,10605,212.1,10392.9
+01-12-2017,Midmarket,Mumbai,Long Note Book,High,2072,40,50,103600,2072,101528
+01-12-2017,Small Business,Mumbai,Long Note Book,High,853,40,50,42650,853,41797
+01-10-2017,Channel Partners,Mumbai,Eraser,None,1198,3,13,15574,311.48,15262.52
+01-04-2017,Government,Mumbai,Cello Tape,None,2532,6,16,40512,810.24,39701.76
+01-10-2017,Channel Partners,Mumbai,Cello Tape,Medium,1198,6,16,19168,383.36,18784.64
+01-01-2017,Midmarket,Kolkata,Cello Tape,Medium,384,6,16,6144,122.88,6021.12
+01-10-2017,Channel Partners,Delhi,A4 Sheet,None,472,120,130,61360,1227.2,60132.8
+01-03-2017,Government,Bangalore,Sharpner,None,1579,2,12,18948,378.96,18569.04
+01-09-2017,Channel Partners,Chennai,Eraser,None,1005,3,13,13065,261.3,12803.7
+01-07-2017,Midmarket,Bangalore,Long Note Book,Low,3199.5,40,50,159975,3199.5,156775.5
+01-10-2017,Channel Partners,Delhi,Pen Stand,High,472,25,35,16520,330.4,16189.6
+01-02-2017,Channel Partners,Kolkata,Folder,High,1937,10,20,38740,774.8,37965.2
+01-03-2017,Government,Delhi,Note Book,None,792,30,40,31680,633.6,31046.4
+01-07-2017,Small Business,Delhi,Pen,None,2811,5,15,42165,843.3,41321.7
+01-10-2017,Enterprise,Mumbai,Long Note Book,Medium,2441,40,50,122050,2441,119609
+01-11-2017,Midmarket,Kolkata,Cello Tape,Medium,1560,6,16,24960,499.2,24460.8
+01-11-2017,Government,Chennai,Eraser,None,2706,3,13,35178,703.56,34474.44
+01-01-2017,Government,Delhi,Pencil,None,766,4,14,10724,214.48,10509.52
+01-10-2017,Government,Delhi,Pencil,None,2992,4,14,41888,837.76,41050.24
+01-12-2017,Midmarket,Chennai,Cello Tape,None,2157,6,16,34512,690.24,33821.76
+01-01-2017,Small Business,Kolkata,Sharpner,Low,873,2,12,10476,209.52,10266.48
+01-03-2017,Government,Chennai,Long Note Book,High,1122,40,50,56100,1122,54978
+01-07-2017,Government,Kolkata,Pencil,High,2104.5,4,14,29463,589.26,28873.74
+01-07-2017,Channel Partners,Kolkata,Pen,None,4026,5,15,60390,1207.8,59182.2
+01-07-2017,Channel Partners,Mumbai,Cello Tape,None,2425.5,6,16,38808,776.16,38031.84
+01-08-2017,Government,Kolkata,Pen,Medium,2394,5,15,35910,718.2,35191.8
+01-08-2017,Midmarket,Chennai,A4 Sheet,Medium,1984,120,130,257920,5158.4,252761.6
+01-10-2017,Enterprise,Mumbai,Pen,None,2441,5,15,36615,732.3,35882.7
+01-10-2017,Government,Delhi,Cello Tape,None,2992,6,16,47872,957.44,46914.56
+01-11-2017,Small Business,Kolkata,Folder,None,1366,10,20,27320,546.4,26773.6
+01-09-2017,Government,Mumbai,Long Note Book,Low,2805,40,50,140250,2805,137445
+01-09-2017,Midmarket,Chennai,Pen Stand,High,655,25,35,22925,458.5,22466.5
+01-10-2017,Government,Chennai,Pen,High,344,5,15,5160,103.2,5056.8
+01-11-2017,Government,Kolkata,Pencil,None,1808,4,14,25312,506.24,24805.76
+01-01-2017,Channel Partners,Mumbai,Folder,None,1734,10,20,34680,693.6,33986.4
+01-01-2017,Enterprise,Chennai,Note Book,Medium,554,30,40,22160,443.2,21716.8
+01-11-2017,Government,Kolkata,Cover File,Medium,2935,20,30,88050,1761,86289
+01-01-2017,Enterprise,Delhi,Note Book,None,3165,30,40,126600,2532,124068
+01-01-2017,Government,Chennai,Sharpner,None,2629,2,12,31548,630.96,30917.04
+01-05-2017,Enterprise,Mumbai,Pen Stand,None,1433,25,35,50155,1003.1,49151.9
+01-09-2017,Enterprise,Chennai,Pencil,None,947,4,14,13258,265.16,12992.84
+01-10-2017,Government,Chennai,Sharpner,Low,344,2,12,4128,82.56,4045.44
+01-12-2017,Midmarket,Chennai,Sharpner,High,2157,2,12,25884,517.68,25366.32
+01-09-2017,Government,Bangalore,Cello Tape,High,380,6,16,6080,121.6,5958.4
+01-06-2017,Government,Chennai,Eraser,None,886,3,13,11518,230.36,11287.64
+01-09-2017,Enterprise,Kolkata,Long Note Book,None,2416,40,50,120800,2416,118384
+01-10-2017,Enterprise,Chennai,Cover File,Medium,2156,20,30,64680,1293.6,63386.4
+01-11-2017,Midmarket,Kolkata,Pen,Medium,2689,5,15,40335,806.7,39528.3
+01-03-2017,Midmarket,Bangalore,Pencil,None,677,4,14,9478,189.56,9288.44
+01-04-2017,Small Business,Mumbai,Long Note Book,None,1773,40,50,88650,1773,86877
+01-09-2017,Government,Chennai,Pen,None,2420,5,15,36300,726,35574
+01-10-2017,Government,Kolkata,Long Note Book,Low,2734,40,50,136700,2734,133966
+01-10-2017,Government,Chennai,Pen,High,1715,5,15,25725,514.5,25210.5
+01-12-2017,Small Business,Mumbai,Cello Tape,High,1186,6,16,18976,379.52,18596.48
+01-01-2017,Small Business,Bangalore,A4 Sheet,None,3495,120,130,454350,9087,445263
+01-06-2017,Government,Chennai,Pen Stand,None,886,25,35,31010,620.2,30389.8
+01-10-2017,Enterprise,Chennai,Pencil,Medium,2156,4,14,30184,603.68,29580.32
+01-10-2017,Government,Chennai,Pen,Medium,905,5,15,13575,271.5,13303.5
+01-10-2017,Government,Chennai,Pen,None,1715,5,15,25725,514.5,25210.5
+01-11-2017,Government,Mumbai,Cello Tape,None,1594,6,16,25504,510.08,24993.92
+01-11-2017,Small Business,Delhi,Pencil,None,1359,4,14,19026,380.52,18645.48
+01-11-2017,Small Business,Chennai,Note Book,None,2150,30,40,86000,1720,84280
+01-11-2017,Government,Chennai,Long Note Book,Low,1197,40,50,59850,1197,58653
+01-12-2017,Midmarket,Chennai,A4 Sheet,High,380,120,130,49400,988,48412
+01-12-2017,Government,Chennai,Cello Tape,High,1233,6,16,19728,394.56,19333.44
+01-07-2017,Government,Chennai,Pencil,None,1395,4,14,19530,390.6,19139.4
+01-10-2017,Government,Bangalore,Folder,None,986,10,20,19720,394.4,19325.6
+01-10-2017,Government,Chennai,A4 Sheet,Medium,905,120,130,117650,2353,115297
+01-05-2017,Channel Partners,Kolkata,Pen Stand,Medium,2109,25,35,73815,1476.3,72338.7
+01-07-2017,Midmarket,Mumbai,Pen,None,3874.5,5,15,58117.5,1162.35,56955.15
+01-09-2017,Government,Kolkata,Cello Tape,None,623,6,16,9968,199.36,9768.64
+01-10-2017,Government,Bangalore,Pencil,None,986,4,14,13804,276.08,13527.92
+01-11-2017,Enterprise,Bangalore,Pen Stand,Low,2387,25,35,83545,1670.9,81874.1
+01-12-2017,Government,Chennai,Eraser,High,1233,3,13,16029,320.58,15708.42
+01-02-2017,Government,Bangalore,Eraser,High,270,3,13,3510,70.2,3439.8
+01-07-2017,Government,Mumbai,Cover File,None,3421.5,20,30,102645,2052.9,100592.1
+01-10-2017,Government,Kolkata,Pencil,None,2734,4,14,38276,765.52,37510.48
+01-11-2017,Midmarket,Bangalore,Note Book,Medium,2548,30,40,101920,2038.4,99881.6
+01-01-2017,Government,Mumbai,Cello Tape,Medium,2521.5,6,16,40344,806.88,39537.12
+01-05-2017,Channel Partners,Chennai,Cello Tape,None,2661,6,16,42576,851.52,41724.48
+01-12-2017,Government,Delhi,Pen,None,1531,5,15,22965,459.3,22505.7
+01-03-2017,Government,Mumbai,Cello Tape,None,1491,6,16,23856,477.12,23378.88
+01-12-2017,Government,Delhi,Sharpner,None,1531,2,12,18372,367.44,18004.56
+01-09-2017,Channel Partners,Kolkata,Long Note Book,Low,2761,40,50,138050,2761,135289
+01-06-2017,Midmarket,Bangalore,Long Note Book,High,2567,40,50,128350,2567,125783
+01-06-2017,Midmarket,Bangalore,Pen,High,2567,5,15,38505,770.1,37734.9
+01-03-2017,Government,Kolkata,Long Note Book,None,923,40,50,46150,923,45227
+01-03-2017,Government,Mumbai,Note Book,None,1790,30,40,71600,1432,70168
+01-09-2017,Government,Delhi,Long Note Book,Medium,442,40,50,22100,442,21658
+01-01-2017,Government,Bangalore,Eraser,Medium,982.5,3,13,12772.5,255.45,12517.05
+01-02-2017,Government,Bangalore,Eraser,None,1298,3,13,16874,337.48,16536.52
+01-06-2017,Channel Partners,Chennai,Sharpner,None,604,2,12,7248,144.96,7103.04
+01-07-2017,Government,Chennai,Pen Stand,None,2255,25,35,78925,1578.5,77346.5
+01-10-2017,Government,Kolkata,Cello Tape,Low,1249,6,16,19984,399.68,19584.32
+01-01-2017,Government,Bangalore,Folder,High,1438.5,10,20,28770,575.4,28194.6
+01-01-2017,Small Business,Delhi,Cover File,High,807,20,30,24210,484.2,23725.8
+01-02-2017,Government,Bangalore,Sharpner,None,2641,2,12,31692,633.84,31058.16
+01-02-2017,Government,Delhi,Pen,None,2708,5,15,40620,812.4,39807.6
+01-06-2017,Government,Kolkata,Note Book,Medium,2632,30,40,105280,2105.6,103174.4
+01-06-2017,Enterprise,Kolkata,Long Note Book,Medium,1583,40,50,79150,1583,77567
+01-07-2017,Channel Partners,Chennai,Cover File,None,571,20,30,17130,342.6,16787.4
+01-08-2017,Government,Mumbai,Pen,None,2696,5,15,40440,808.8,39631.2
+01-10-2017,Midmarket,Kolkata,Pencil,None,1565,4,14,21910,438.2,21471.8
+01-10-2017,Government,Kolkata,Cover File,None,1249,20,30,37470,749.4,36720.6
+01-11-2017,Government,Delhi,Eraser,Low,357,3,13,4641,92.82,4548.18
+01-12-2017,Channel Partners,Delhi,Cover File,High,1013,20,30,30390,607.8,29782.2
+01-01-2017,Midmarket,Mumbai,Cover File,High,3997.5,20,30,119925,2398.5,117526.5
+01-06-2017,Government,Kolkata,Pen,None,2632,5,15,39480,789.6,38690.4
+01-06-2017,Government,Mumbai,Sharpner,None,1190,2,12,14280,285.6,13994.4
+01-06-2017,Channel Partners,Chennai,Long Note Book,Medium,604,40,50,30200,604,29596
+01-09-2017,Midmarket,Delhi,Pencil,Medium,660,4,14,9240,184.8,9055.2
+01-10-2017,Channel Partners,Chennai,Eraser,None,410,3,13,5330,106.6,5223.4
+01-11-2017,Small Business,Chennai,Long Note Book,None,2605,40,50,130250,2605,127645
+01-12-2017,Channel Partners,Delhi,Long Note Book,None,1013,40,50,50650,1013,49637
+01-06-2017,Enterprise,Kolkata,Sharpner,Low,1583,2,12,18996,379.92,18616.08
+01-10-2017,Midmarket,Kolkata,Pen,High,1565,5,15,23475,469.5,23005.5
+01-01-2017,Enterprise,Kolkata,Pen Stand,High,1659,25,35,58065,1161.3,56903.7
+01-06-2017,Government,Mumbai,Cello Tape,None,1190,6,16,19040,380.8,18659.2
+01-10-2017,Channel Partners,Chennai,Pen,None,410,5,15,6150,123,6027
+01-12-2017,Channel Partners,Delhi,Sharpner,Medium,1770,2,12,21240,424.8,20815.2
+01-04-2017,Government,Chennai,Folder,Medium,2579,10,20,51580,1031.6,50548.4
+01-05-2017,Government,Bangalore,Eraser,None,1743,3,13,22659,453.18,22205.82
+01-10-2017,Government,Bangalore,Sharpner,None,2996,2,12,35952,719.04,35232.96
+01-12-2017,Government,Delhi,Eraser,None,280,3,13,3640,72.8,3567.2
+01-02-2017,Government,Mumbai,Pencil,None,293,4,14,4102,82.04,4019.96
+01-10-2017,Government,Bangalore,Cello Tape,Low,2996,6,16,47936,958.72,46977.28
+01-02-2017,Midmarket,Delhi,Pencil,High,278,4,14,3892,77.84,3814.16
+01-03-2017,Government,Kolkata,Note Book,High,2428,30,40,97120,1942.4,95177.6
+01-09-2017,Midmarket,Bangalore,A4 Sheet,None,1767,120,130,229710,4594.2,225115.8
+01-10-2017,Channel Partners,Mumbai,Cello Tape,None,1393,6,16,22288,445.76,21842.24
+01-12-2017,Government,Delhi,Cello Tape,Medium,280,6,16,4480,89.6,4390.4
+01-10-2017,Channel Partners,Mumbai,Pencil,Medium,1393,4,14,19502,390.04,19111.96
+01-12-2017,Channel Partners,Bangalore,Pencil,None,2015,4,14,28210,564.2,27645.8
+01-07-2017,Small Business,Chennai,Sharpner,None,801,2,12,9612,192.24,9419.76
+01-09-2017,Enterprise,Mumbai,Cello Tape,None,1023,6,16,16368,327.36,16040.64
+01-10-2017,Small Business,Kolkata,Eraser,Low,1496,3,13,19448,388.96,19059.04
+01-10-2017,Small Business,Bangalore,Eraser,High,1010,3,13,13130,262.6,12867.4
+01-11-2017,Midmarket,Delhi,Long Note Book,High,1513,40,50,75650,1513,74137
+01-12-2017,Midmarket,Kolkata,A4 Sheet,None,2300,120,130,299000,5980,293020
+01-12-2017,Enterprise,Chennai,Pen Stand,None,2821,25,35,98735,1974.7,96760.3
+01-01-2017,Government,Kolkata,Pen Stand,Medium,2227.5,25,35,77962.5,1559.25,76403.25
+01-04-2017,Government,Delhi,Pen,Medium,1199,5,15,17985,359.7,17625.3
+01-05-2017,Government,Kolkata,Cello Tape,None,200,6,16,3200,64,3136
+01-09-2017,Government,Kolkata,Pen Stand,None,388,25,35,13580,271.6,13308.4
+01-10-2017,Government,Chennai,Pen,None,1727,5,15,25905,518.1,25386.9
+01-12-2017,Midmarket,Kolkata,Sharpner,None,2300,2,12,27600,552,27048
+01-02-2017,Government,Chennai,Long Note Book,Low,260,40,50,13000,260,12740
+01-09-2017,Midmarket,Kolkata,Pen,High,2470,5,15,37050,741,36309
+01-10-2017,Midmarket,Kolkata,Eraser,High,1743,3,13,22659,453.18,22205.82
+01-10-2017,Channel Partners,Bangalore,Long Note Book,None,2914,40,50,145700,2914,142786
+01-10-2017,Government,Mumbai,Pen,None,1731,5,15,25965,519.3,25445.7
+01-11-2017,Government,Kolkata,Note Book,Medium,700,30,40,28000,560,27440
+01-11-2017,Channel Partners,Kolkata,Sharpner,Medium,2222,2,12,26664,533.28,26130.72
+01-11-2017,Government,Bangalore,Long Note Book,None,1177,40,50,58850,1177,57673
+01-11-2017,Government,Mumbai,Eraser,None,1922,3,13,24986,499.72,24486.28
+01-02-2017,Enterprise,Chennai,Sharpner,None,1575,2,12,18900,378,18522
+01-04-2017,Government,Bangalore,Note Book,Low,606,30,40,24240,484.8,23755.2
+01-07-2017,Small Business,Bangalore,Eraser,High,2460,3,13,31980,639.6,31340.4
+01-10-2017,Small Business,Kolkata,Pen Stand,High,269,25,35,9415,188.3,9226.7
+01-11-2017,Small Business,Delhi,Cover File,None,2536,20,30,76080,1521.6,74558.4
+01-03-2017,Government,Chennai,Long Note Book,None,2903,40,50,145150,2903,142247
+01-08-2017,Small Business,Bangalore,Cello Tape,Medium,2541,6,16,40656,813.12,39842.88
+01-10-2017,Small Business,Kolkata,Note Book,Medium,269,30,40,10760,215.2,10544.8
+01-10-2017,Small Business,Kolkata,Pencil,None,1496,4,14,20944,418.88,20525.12
+01-10-2017,Small Business,Bangalore,Pen,None,1010,5,15,15150,303,14847
+01-12-2017,Government,Mumbai,Eraser,None,1281,3,13,16653,333.06,16319.94
+01-03-2017,Small Business,Kolkata,Note Book,None,888,30,40,35520,710.4,34809.6
+01-05-2017,Enterprise,Bangalore,Sharpner,Low,2844,2,12,34128,682.56,33445.44
+01-08-2017,Channel Partners,Mumbai,Pencil,High,2475,4,14,34650,693,33957
+01-10-2017,Midmarket,Kolkata,A4 Sheet,High,1743,120,130,226590,4531.8,222058.2
+01-10-2017,Government,Mumbai,Sharpner,None,1731,2,12,20772,415.44,20356.56
+01-10-2017,Government,Chennai,Cello Tape,Medium,1727,6,16,27632,552.64,27079.36
+01-11-2017,Midmarket,Chennai,Pen,Medium,1870,5,15,28050,561,27489
+01-08-2017,Enterprise,Mumbai,A4 Sheet,None,1174,120,130,152620,3052.4,149567.6
+01-08-2017,Enterprise,Delhi,Note Book,None,2767,30,40,110680,2213.6,108466.4
+01-10-2017,Enterprise,Delhi,Cover File,None,1085,20,30,32550,651,31899
+01-10-2017,Small Business,Chennai,Pen Stand,Low,546,25,35,19110,382.2,18727.8
+01-03-2017,Government,Delhi,Eraser,High,1158,3,13,15054,301.08,14752.92
+01-04-2017,Midmarket,Kolkata,Cello Tape,High,1614,6,16,25824,516.48,25307.52
+01-04-2017,Government,Chennai,Folder,None,2535,10,20,50700,1014,49686
+01-05-2017,Government,Chennai,A4 Sheet,None,2851,120,130,370630,7412.6,363217.4
+01-08-2017,Midmarket,Kolkata,Long Note Book,Medium,2559,40,50,127950,2559,125391
+01-10-2017,Government,Bangalore,Pen,Medium,267,5,15,4005,80.1,3924.9
+01-10-2017,Enterprise,Delhi,Sharpner,None,1085,2,12,13020,260.4,12759.6
+01-10-2017,Midmarket,Delhi,Pen Stand,None,1175,25,35,41125,822.5,40302.5
+01-11-2017,Government,Bangalore,Eraser,None,2007,3,13,26091,521.82,25569.18
+01-11-2017,Government,Chennai,Pencil,None,2151,4,14,30114,602.28,29511.72
+01-12-2017,Channel Partners,Bangalore,Note Book,Low,914,30,40,36560,731.2,35828.8
+01-12-2017,Government,Mumbai,A4 Sheet,High,293,120,130,38090,761.8,37328.2
+01-03-2017,Channel Partners,Chennai,Pen,High,500,5,15,7500,150,7350
+01-05-2017,Midmarket,Mumbai,Sharpner,None,2826,2,12,33912,678.24,33233.76
+01-09-2017,Enterprise,Mumbai,Long Note Book,None,663,40,50,33150,663,32487
+01-11-2017,Small Business,Bangalore,Pen,Medium,2574,5,15,38610,772.2,37837.8
+01-12-2017,Enterprise,Bangalore,Pencil,Medium,2438,4,14,34132,682.64,33449.36
+01-12-2017,Channel Partners,Bangalore,Pen Stand,None,914,25,35,31990,639.8,31350.2
+01-07-2017,Government,Kolkata,Cover File,None,865.5,20,30,25965,519.3,25445.7
+01-07-2017,Midmarket,Delhi,Folder,None,492,10,20,9840,196.8,9643.2
+01-10-2017,Government,Bangalore,Sharpner,Low,267,2,12,3204,64.08,3139.92
+01-10-2017,Midmarket,Delhi,Pencil,High,1175,4,14,16450,329,16121
+01-11-2017,Enterprise,Kolkata,A4 Sheet,High,2954,120,130,384020,7680.4,376339.6
+01-11-2017,Enterprise,Delhi,Folder,None,552,10,20,11040,220.8,10819.2
+01-12-2017,Government,Mumbai,Pen Stand,None,293,25,35,10255,205.1,10049.9
+01-03-2017,Small Business,Mumbai,Long Note Book,Medium,2475,40,50,123750,2475,121275
+01-10-2017,Small Business,Chennai,Sharpner,Medium,546,2,12,6552,131.04,6420.96
+01-02-2017,Government,Chennai,Cello Tape,None,1368,6,16,21888,437.76,21450.24
+01-04-2017,Government,Kolkata,Pen Stand,None,723,25,35,25305,506.1,24798.9
+01-05-2017,Channel Partners,Bangalore,Pencil,None,1806,4,14,25284,505.68,24778.32
+01-12-2017,Government,Mumbai,A4 Sheet,High,293,120,130,38090,761.8,37328.2
+01-03-2017,Channel Partners,Chennai,Pen,High,500,5,15,7500,150,7350
+01-05-2017,Midmarket,Mumbai,Sharpner,None,2826,2,12,33912,678.24,33233.76
+01-09-2017,Enterprise,Mumbai,Long Note Book,None,663,40,50,33150,663,32487
+01-11-2017,Small Business,Bangalore,Pen,Medium,2574,5,15,38610,772.2,37837.8
+01-12-2017,Enterprise,Bangalore,Pencil,Medium,2438,4,14,34132,682.64,33449.36
+01-12-2017,Channel Partners,Bangalore,Pen Stand,None,914,25,35,31990,639.8,31350.2
+01-07-2017,Government,Kolkata,Cover File,None,865.5,20,30,25965,519.3,25445.7
+01-07-2017,Midmarket,Delhi,Folder,None,492,10,20,9840,196.8,9643.2
+01-10-2017,Government,Bangalore,Sharpner,Low,267,2,12,3204,64.08,3139.92
+01-10-2017,Midmarket,Delhi,Pencil,High,1175,4,14,16450,329,16121
+01-11-2017,Enterprise,Kolkata,A4 Sheet,High,2954,120,130,384020,7680.4,376339.6
+01-11-2017,Enterprise,Delhi,Folder,None,552,10,20,11040,220.8,10819.2
+01-12-2017,Government,Mumbai,Pen Stand,None,293,25,35,10255,205.1,10049.9
+01-03-2017,Small Business,Mumbai,Long Note Book,Medium,2475,40,50,123750,2475,121275
+01-10-2017,Small Business,Chennai,Sharpner,Medium,546,2,12,6552,131.04,6420.96
+01-02-2017,Government,Chennai,Cello Tape,None,1368,6,16,21888,437.76,21450.24
+01-04-2017,Government,Kolkata,Pen Stand,None,723,25,35,25305,506.1,24798.9
+01-05-2017,Channel Partners,Bangalore,Pencil,None,1806,4,14,25284,505.68,24778.32
+01-11-2017,Government,Delhi,Eraser,High,1520,3,13,19760,395.2,19364.8
+01-12-2017,Midmarket,Delhi,Sharpner,None,711,2,12,8532,170.64,8361.36
+01-12-2017,Channel Partners,Chennai,A4 Sheet,None,1375,120,130,178750,3575,175175
+01-12-2017,Small Business,Chennai,Sharpner,Medium,635,2,12,7620,152.4,7467.6
+01-07-2017,Government,Bangalore,Eraser,Medium,436.5,3,13,5674.5,113.49,5561.01
+01-06-2017,Small Business,Kolkata,Folder,None,1094,10,20,21880,437.6,21442.4
+01-10-2017,Channel Partners,Chennai,Pen Stand,None,367,25,35,12845,256.9,12588.1
+01-04-2017,Small Business,Kolkata,Sharpner,None,3802.5,2,12,45630,912.6,44717.4
+01-05-2017,Government,Mumbai,Cello Tape,None,1666,6,16,26656,533.12,26122.88
+01-09-2017,Small Business,Mumbai,Long Note Book,Low,322,40,50,16100,322,15778
+01-11-2017,Channel Partners,Kolkata,Cello Tape,High,2321,6,16,37136,742.72,36393.28
+01-11-2017,Enterprise,Mumbai,Pen Stand,High,1857,25,35,64995,1299.9,63695.1
+01-12-2017,Government,Kolkata,Cover File,None,1611,20,30,48330,966.6,47363.4
+01-12-2017,Enterprise,Bangalore,A4 Sheet,None,2797,120,130,363610,7272.2,356337.8
+01-12-2017,Small Business,Delhi,Pencil,Medium,334,4,14,4676,93.52,4582.48
+01-01-2017,Small Business,Chennai,Note Book,Medium,2565,30,40,102600,2052,100548
+01-01-2017,Government,Chennai,Long Note Book,None,2417,40,50,120850,2417,118433
+01-04-2017,Midmarket,Bangalore,Eraser,None,3675,3,13,47775,955.5,46819.5
+01-06-2017,Small Business,Kolkata,Sharpner,None,1094,2,12,13128,262.56,12865.44
+01-10-2017,Midmarket,Mumbai,Pencil,Low,1227,4,14,17178,343.56,16834.44
+01-10-2017,Channel Partners,Chennai,Sharpner,High,367,2,12,4404,88.08,4315.92
+01-11-2017,Small Business,Mumbai,Pen,High,1324,5,15,19860,397.2,19462.8
+01-11-2017,Channel Partners,Delhi,Long Note Book,None,1775,40,50,88750,1775,86975
+01-12-2017,Enterprise,Bangalore,Pen,None,2797,5,15,41955,839.1,41115.9
+01-05-2017,Midmarket,Chennai,A4 Sheet,Medium,245,120,130,31850,637,31213
+01-07-2017,Small Business,Kolkata,Folder,Medium,3793.5,10,20,75870,1517.4,74352.6
+01-07-2017,Government,Delhi,Note Book,None,1307,30,40,52280,1045.6,51234.4
+01-09-2017,Enterprise,Kolkata,Cello Tape,None,567,6,16,9072,181.44,8890.56
+01-09-2017,Enterprise,Chennai,Pen,None,2110,5,15,31650,633,31017
+01-10-2017,Government,Kolkata,Cello Tape,None,1269,6,16,20304,406.08,19897.92
+01-01-2017,Channel Partners,Bangalore,Cover File,Low,1956,20,30,58680,1173.6,57506.4
+01-02-2017,Small Business,Delhi,Cello Tape,High,2659,6,16,42544,850.88,41693.12
+01-04-2017,Government,Bangalore,Cover File,High,1351.5,20,30,40545,810.9,39734.1
+01-05-2017,Channel Partners,Delhi,Folder,None,880,10,20,17600,352,17248
+01-09-2017,Small Business,Bangalore,Long Note Book,None,1867,40,50,93350,1867,91483
+01-09-2017,Channel Partners,Mumbai,Cover File,Medium,2234,20,30,67020,1340.4,65679.6
+01-10-2017,Midmarket,Mumbai,Eraser,Medium,1227,3,13,15951,319.02,15631.98
+01-11-2017,Enterprise,Chennai,Pen,None,877,5,15,13155,263.1,12891.9
+01-09-2017,Government,Bangalore,Sharpner,None,2071,2,12,24852,497.04,24354.96
+01-10-2017,Government,Kolkata,Cello Tape,None,1269,6,16,20304,406.08,19897.92
+01-11-2017,Midmarket,Delhi,Pen,Low,970,5,15,14550,291,14259
+01-11-2017,Government,Chennai,A4 Sheet,High,1694,120,130,220220,4404.4,215815.6
+01-05-2017,Government,Delhi,Folder,High,663,10,20,13260,265.2,12994.8
+01-07-2017,Government,Kolkata,Pen Stand,None,819,25,35,28665,573.3,28091.7
+01-09-2017,Channel Partners,Delhi,Pencil,None,1580,4,14,22120,442.4,21677.6
+01-12-2017,Government,Chennai,Long Note Book,Medium,521,40,50,26050,521,25529
+01-03-2017,Government,Bangalore,Note Book,Medium,973,30,40,38920,778.4,38141.6
+01-06-2017,Government,Chennai,Cello Tape,None,1038,6,16,16608,332.16,16275.84
+01-10-2017,Government,Delhi,Pen,None,360,5,15,5400,108,5292
+01-03-2017,Channel Partners,Mumbai,Cello Tape,None,1967,6,16,31472,629.44,30842.56
+01-04-2017,Midmarket,Chennai,Sharpner,None,2628,2,12,31536,630.72,30905.28
+01-10-2017,Government,Delhi,Cover File,Low,360,20,30,10800,216,10584
+01-11-2017,Government,Mumbai,Note Book,High,2682,30,40,107280,2145.6,105134.4
+01-12-2017,Government,Chennai,Long Note Book,High,521,40,50,26050,521,25529
+01-06-2017,Government,Chennai,Sharpner,None,1038,2,12,12456,249.12,12206.88
+01-07-2017,Midmarket,Kolkata,Sharpner,None,1630.5,2,12,19566,391.32,19174.68
+01-12-2017,Channel Partners,Mumbai,Cello Tape,Medium,306,6,16,4896,97.92,4798.08
+01-10-2017,Channel Partners,Bangalore,Pencil,Medium,386,4,14,5404,108.08,5295.92
+01-09-2017,Government,Bangalore,Sharpner,None,2328,2,12,27936,558.72,27377.28
+01-10-2017,Channel Partners,Bangalore,Long Note Book,None,386,40,50,19300,386,18914
+01-04-2017,Enterprise,Bangalore,Pencil,None,3445.5,4,14,48237,964.74,47272.26
+01-12-2017,Enterprise,Mumbai,Folder,Low,1482,10,20,29640,592.8,29047.2
+01-05-2017,Government,Bangalore,Cello Tape,High,2313,6,16,37008,740.16,36267.84
+01-11-2017,Enterprise,Bangalore,Note Book,High,1804,30,40,72160,1443.2,70716.8
+01-12-2017,Midmarket,Mumbai,Pen Stand,None,2072,25,35,72520,1450.4,71069.6
+01-03-2017,Government,Mumbai,Pen,None,1954,5,15,29310,586.2,28723.8
+01-05-2017,Small Business,Chennai,Pen Stand,Medium,591,25,35,20685,413.7,20271.3
+01-10-2017,Midmarket,Mumbai,Eraser,Medium,2167,3,13,28171,563.42,27607.58
+01-10-2017,Government,Delhi,Sharpner,None,241,2,12,2892,57.84,2834.16
+01-01-2017,Midmarket,Delhi,Cello Tape,None,681,6,16,10896,217.92,10678.08
+01-04-2017,Midmarket,Delhi,Pen,None,510,5,15,7650,153,7497
+01-05-2017,Midmarket,Bangalore,Eraser,None,790,3,13,10270,205.4,10064.6
+01-07-2017,Government,Mumbai,Folder,Low,639,10,20,12780,255.6,12524.4
+01-09-2017,Enterprise,Bangalore,Pen,High,1596,5,15,23940,478.8,23461.2
+01-10-2017,Small Business,Bangalore,Sharpner,High,2294,2,12,27528,550.56,26977.44
+01-10-2017,Government,Delhi,Long Note Book,None,241,40,50,12050,241,11809
+01-11-2017,Government,Delhi,Note Book,None,2665,30,40,106600,2132,104468
+01-12-2017,Enterprise,Kolkata,Cello Tape,Medium,1916,6,16,30656,613.12,30042.88
+01-12-2017,Small Business,Mumbai,Pen,Medium,853,5,15,12795,255.9,12539.1
+01-05-2017,Enterprise,Chennai,Long Note Book,None,341,40,50,17050,341,16709
+01-07-2017,Midmarket,Chennai,Cello Tape,None,641,6,16,10256,205.12,10050.88
+01-08-2017,Government,Bangalore,Cello Tape,None,2807,6,16,44912,898.24,44013.76
+01-09-2017,Small Business,Chennai,A4 Sheet,Low,432,120,130,56160,1123.2,55036.8
+01-10-2017,Small Business,Bangalore,Pen Stand,High,2294,25,35,80290,1605.8,78684.2
+01-10-2017,Midmarket,Mumbai,Pencil,High,2167,4,14,30338,606.76,29731.24
+01-11-2017,Enterprise,Kolkata,Note Book,None,2529,30,40,101160,2023.2,99136.8
+01-12-2017,Government,Delhi,Cover File,None,1870,20,30,56100,1122,54978
+01-01-2017,Enterprise,Bangalore,A4 Sheet,Medium,579,120,130,75270,1505.4,73764.6
+01-02-2017,Government,Kolkata,Note Book,Medium,2240,30,40,89600,1792,87808
+01-03-2017,Small Business,Bangalore,Pen Stand,None,2993,25,35,104755,2095.1,102659.9
+01-04-2017,Channel Partners,Kolkata,Cover File,None,3520.5,20,30,105615,2112.3,103502.7
+01-05-2017,Government,Chennai,Pencil,None,2039,4,14,28546,570.92,27975.08
+01-08-2017,Channel Partners,Delhi,Sharpner,None,2574,2,12,30888,617.76,30270.24
+01-09-2017,Government,Kolkata,Pen,Low,707,5,15,10605,212.1,10392.9
+01-12-2017,Midmarket,Mumbai,Long Note Book,High,2072,40,50,103600,2072,101528
+01-12-2017,Small Business,Mumbai,Long Note Book,High,853,40,50,42650,853,41797
+01-10-2017,Channel Partners,Mumbai,Eraser,None,1198,3,13,15574,311.48,15262.52
+01-04-2017,Government,Mumbai,Cello Tape,None,2532,6,16,40512,810.24,39701.76
+01-10-2017,Channel Partners,Mumbai,Cello Tape,Medium,1198,6,16,19168,383.36,18784.64
+01-01-2017,Midmarket,Kolkata,Cello Tape,Medium,384,6,16,6144,122.88,6021.12
+01-10-2017,Channel Partners,Delhi,A4 Sheet,None,472,120,130,61360,1227.2,60132.8
+01-03-2017,Government,Bangalore,Sharpner,None,1579,2,12,18948,378.96,18569.04
+01-09-2017,Channel Partners,Chennai,Eraser,None,1005,3,13,13065,261.3,12803.7
+01-07-2017,Midmarket,Bangalore,Long Note Book,Low,3199.5,40,50,159975,3199.5,156775.5
+01-10-2017,Channel Partners,Delhi,Pen Stand,High,472,25,35,16520,330.4,16189.6
+01-02-2017,Channel Partners,Kolkata,Folder,High,1937,10,20,38740,774.8,37965.2
+01-03-2017,Government,Delhi,Note Book,None,792,30,40,31680,633.6,31046.4
+01-07-2017,Small Business,Delhi,Pen,None,2811,5,15,42165,843.3,41321.7
+01-10-2017,Enterprise,Mumbai,Long Note Book,Medium,2441,40,50,122050,2441,119609
+01-11-2017,Midmarket,Kolkata,Cello Tape,Medium,1560,6,16,24960,499.2,24460.8
+01-11-2017,Government,Chennai,Eraser,None,2706,3,13,35178,703.56,34474.44
+01-01-2017,Government,Delhi,Pencil,None,766,4,14,10724,214.48,10509.52
+01-10-2017,Government,Delhi,Pencil,None,2992,4,14,41888,837.76,41050.24
+01-12-2017,Midmarket,Chennai,Cello Tape,None,2157,6,16,34512,690.24,33821.76
+01-01-2017,Small Business,Kolkata,Sharpner,Low,873,2,12,10476,209.52,10266.48
+01-03-2017,Government,Chennai,Long Note Book,High,1122,40,50,56100,1122,54978
+01-07-2017,Government,Kolkata,Pencil,High,2104.5,4,14,29463,589.26,28873.74
+01-07-2017,Channel Partners,Kolkata,Pen,None,4026,5,15,60390,1207.8,59182.2
+01-07-2017,Channel Partners,Mumbai,Cello Tape,None,2425.5,6,16,38808,776.16,38031.84
+01-08-2017,Government,Kolkata,Pen,Medium,2394,5,15,35910,718.2,35191.8
+01-08-2017,Midmarket,Chennai,A4 Sheet,Medium,1984,120,130,257920,5158.4,252761.6
+01-10-2017,Enterprise,Mumbai,Pen,None,2441,5,15,36615,732.3,35882.7
+01-10-2017,Government,Delhi,Cello Tape,None,2992,6,16,47872,957.44,46914.56
+01-11-2017,Small Business,Kolkata,Folder,None,1366,10,20,27320,546.4,26773.6
+01-09-2017,Government,Mumbai,Long Note Book,Low,2805,40,50,140250,2805,137445
+01-09-2017,Midmarket,Chennai,Pen Stand,High,655,25,35,22925,458.5,22466.5
+01-10-2017,Government,Chennai,Pen,High,344,5,15,5160,103.2,5056.8
+01-11-2017,Government,Kolkata,Pencil,None,1808,4,14,25312,506.24,24805.76
+01-01-2017,Channel Partners,Mumbai,Folder,None,1734,10,20,34680,693.6,33986.4
+01-01-2017,Enterprise,Chennai,Note Book,Medium,554,30,40,22160,443.2,21716.8
+01-11-2017,Government,Kolkata,Cover File,Medium,2935,20,30,88050,1761,86289
+01-01-2017,Enterprise,Delhi,Note Book,None,3165,30,40,126600,2532,124068
+01-01-2017,Government,Chennai,Sharpner,None,2629,2,12,31548,630.96,30917.04
+01-05-2017,Enterprise,Mumbai,Pen Stand,None,1433,25,35,50155,1003.1,49151.9
+01-09-2017,Enterprise,Chennai,Pencil,None,947,4,14,13258,265.16,12992.84
+01-10-2017,Government,Chennai,Sharpner,Low,344,2,12,4128,82.56,4045.44
+01-12-2017,Midmarket,Chennai,Sharpner,High,2157,2,12,25884,517.68,25366.32
+01-09-2017,Government,Bangalore,Cello Tape,High,380,6,16,6080,121.6,5958.4
+01-06-2017,Government,Chennai,Eraser,None,886,3,13,11518,230.36,11287.64
+01-09-2017,Enterprise,Kolkata,Long Note Book,None,2416,40,50,120800,2416,118384
+01-10-2017,Enterprise,Chennai,Cover File,Medium,2156,20,30,64680,1293.6,63386.4
+01-11-2017,Midmarket,Kolkata,Pen,Medium,2689,5,15,40335,806.7,39528.3
+01-03-2017,Midmarket,Bangalore,Pencil,None,677,4,14,9478,189.56,9288.44
+01-04-2017,Small Business,Mumbai,Long Note Book,None,1773,40,50,88650,1773,86877
+01-09-2017,Government,Chennai,Pen,None,2420,5,15,36300,726,35574
+01-10-2017,Government,Kolkata,Long Note Book,Low,2734,40,50,136700,2734,133966
+01-10-2017,Government,Chennai,Pen,High,1715,5,15,25725,514.5,25210.5
+01-12-2017,Small Business,Mumbai,Cello Tape,High,1186,6,16,18976,379.52,18596.48
+01-01-2017,Small Business,Bangalore,A4 Sheet,None,3495,120,130,454350,9087,445263
+01-06-2017,Government,Chennai,Pen Stand,None,886,25,35,31010,620.2,30389.8
+01-10-2017,Enterprise,Chennai,Pencil,Medium,2156,4,14,30184,603.68,29580.32
+01-10-2017,Government,Chennai,Pen,Medium,905,5,15,13575,271.5,13303.5
+01-10-2017,Government,Chennai,Pen,None,1715,5,15,25725,514.5,25210.5
+01-11-2017,Government,Mumbai,Cello Tape,None,1594,6,16,25504,510.08,24993.92
+01-11-2017,Small Business,Delhi,Pencil,None,1359,4,14,19026,380.52,18645.48
+01-11-2017,Small Business,Chennai,Note Book,None,2150,30,40,86000,1720,84280
+01-11-2017,Government,Chennai,Long Note Book,Low,1197,40,50,59850,1197,58653
+01-12-2017,Midmarket,Chennai,A4 Sheet,High,380,120,130,49400,988,48412
+01-12-2017,Government,Chennai,Cello Tape,High,1233,6,16,19728,394.56,19333.44
+01-07-2017,Government,Chennai,Pencil,None,1395,4,14,19530,390.6,19139.4
+01-10-2017,Government,Bangalore,Folder,None,986,10,20,19720,394.4,19325.6
+01-10-2017,Government,Chennai,A4 Sheet,Medium,905,120,130,117650,2353,115297
+01-05-2017,Channel Partners,Kolkata,Pen Stand,Medium,2109,25,35,73815,1476.3,72338.7
+01-07-2017,Midmarket,Mumbai,Pen,None,3874.5,5,15,58117.5,1162.35,56955.15
+01-09-2017,Government,Kolkata,Cello Tape,None,623,6,16,9968,199.36,9768.64
+01-10-2017,Government,Bangalore,Pencil,None,986,4,14,13804,276.08,13527.92
+01-11-2017,Enterprise,Bangalore,Pen Stand,Low,2387,25,35,83545,1670.9,81874.1
+01-12-2017,Government,Chennai,Eraser,High,1233,3,13,16029,320.58,15708.42
+01-02-2017,Government,Bangalore,Eraser,High,270,3,13,3510,70.2,3439.8
+01-07-2017,Government,Mumbai,Cover File,None,3421.5,20,30,102645,2052.9,100592.1
+01-10-2017,Government,Kolkata,Pencil,None,2734,4,14,38276,765.52,37510.48
+01-11-2017,Midmarket,Bangalore,Note Book,Medium,2548,30,40,101920,2038.4,99881.6
+01-01-2017,Government,Mumbai,Cello Tape,Medium,2521.5,6,16,40344,806.88,39537.12
+01-05-2017,Channel Partners,Chennai,Cello Tape,None,2661,6,16,42576,851.52,41724.48
+01-12-2017,Government,Delhi,Pen,None,1531,5,15,22965,459.3,22505.7
+01-03-2017,Government,Mumbai,Cello Tape,None,1491,6,16,23856,477.12,23378.88
+01-12-2017,Government,Delhi,Sharpner,None,1531,2,12,18372,367.44,18004.56
+01-09-2017,Channel Partners,Kolkata,Long Note Book,Low,2761,40,50,138050,2761,135289
+01-06-2017,Midmarket,Bangalore,Long Note Book,High,2567,40,50,128350,2567,125783
+01-06-2017,Midmarket,Bangalore,Pen,High,2567,5,15,38505,770.1,37734.9
+01-03-2017,Government,Kolkata,Long Note Book,None,923,40,50,46150,923,45227
+01-03-2017,Government,Mumbai,Note Book,None,1790,30,40,71600,1432,70168
+01-09-2017,Government,Delhi,Long Note Book,Medium,442,40,50,22100,442,21658
+01-01-2017,Government,Bangalore,Eraser,Medium,982.5,3,13,12772.5,255.45,12517.05
+01-02-2017,Government,Bangalore,Eraser,None,1298,3,13,16874,337.48,16536.52
+01-06-2017,Channel Partners,Chennai,Sharpner,None,604,2,12,7248,144.96,7103.04
+01-07-2017,Government,Chennai,Pen Stand,None,2255,25,35,78925,1578.5,77346.5
+01-10-2017,Government,Kolkata,Cello Tape,Low,1249,6,16,19984,399.68,19584.32
+01-01-2017,Government,Bangalore,Folder,High,1438.5,10,20,28770,575.4,28194.6
+01-01-2017,Small Business,Delhi,Cover File,High,807,20,30,24210,484.2,23725.8
+01-02-2017,Government,Bangalore,Sharpner,None,2641,2,12,31692,633.84,31058.16
+01-02-2017,Government,Delhi,Pen,None,2708,5,15,40620,812.4,39807.6
+01-06-2017,Government,Kolkata,Note Book,Medium,2632,30,40,105280,2105.6,103174.4
+01-06-2017,Enterprise,Kolkata,Long Note Book,Medium,1583,40,50,79150,1583,77567
+01-07-2017,Channel Partners,Chennai,Cover File,None,571,20,30,17130,342.6,16787.4
+01-08-2017,Government,Mumbai,Pen,None,2696,5,15,40440,808.8,39631.2
+01-10-2017,Midmarket,Kolkata,Pencil,None,1565,4,14,21910,438.2,21471.8
+01-10-2017,Government,Kolkata,Cover File,None,1249,20,30,37470,749.4,36720.6
+01-11-2017,Government,Delhi,Eraser,Low,357,3,13,4641,92.82,4548.18
+01-12-2017,Channel Partners,Delhi,Cover File,High,1013,20,30,30390,607.8,29782.2
+01-01-2017,Midmarket,Mumbai,Cover File,High,3997.5,20,30,119925,2398.5,117526.5
+01-06-2017,Government,Kolkata,Pen,None,2632,5,15,39480,789.6,38690.4
+01-06-2017,Government,Mumbai,Sharpner,None,1190,2,12,14280,285.6,13994.4
+01-06-2017,Channel Partners,Chennai,Long Note Book,Medium,604,40,50,30200,604,29596
+01-09-2017,Midmarket,Delhi,Pencil,Medium,660,4,14,9240,184.8,9055.2
+01-10-2017,Channel Partners,Chennai,Eraser,None,410,3,13,5330,106.6,5223.4
+01-11-2017,Small Business,Chennai,Long Note Book,None,2605,40,50,130250,2605,127645
+01-12-2017,Channel Partners,Delhi,Long Note Book,None,1013,40,50,50650,1013,49637
+01-06-2017,Enterprise,Kolkata,Sharpner,Low,1583,2,12,18996,379.92,18616.08
+01-10-2017,Midmarket,Kolkata,Pen,High,1565,5,15,23475,469.5,23005.5
+01-01-2017,Enterprise,Kolkata,Pen Stand,High,1659,25,35,58065,1161.3,56903.7
+01-06-2017,Government,Mumbai,Cello Tape,None,1190,6,16,19040,380.8,18659.2
+01-10-2017,Channel Partners,Chennai,Pen,None,410,5,15,6150,123,6027
+01-12-2017,Channel Partners,Delhi,Sharpner,Medium,1770,2,12,21240,424.8,20815.2
+01-04-2017,Government,Chennai,Folder,Medium,2579,10,20,51580,1031.6,50548.4
+01-05-2017,Government,Bangalore,Eraser,None,1743,3,13,22659,453.18,22205.82
+01-10-2017,Government,Bangalore,Sharpner,None,2996,2,12,35952,719.04,35232.96
+01-12-2017,Government,Delhi,Eraser,None,280,3,13,3640,72.8,3567.2
+01-02-2017,Government,Mumbai,Pencil,None,293,4,14,4102,82.04,4019.96
+01-10-2017,Government,Bangalore,Cello Tape,Low,2996,6,16,47936,958.72,46977.28
+01-02-2017,Midmarket,Delhi,Pencil,High,278,4,14,3892,77.84,3814.16
+01-03-2017,Government,Kolkata,Note Book,High,2428,30,40,97120,1942.4,95177.6
+01-09-2017,Midmarket,Bangalore,A4 Sheet,None,1767,120,130,229710,4594.2,225115.8
+01-10-2017,Channel Partners,Mumbai,Cello Tape,None,1393,6,16,22288,445.76,21842.24
+01-12-2017,Government,Delhi,Cello Tape,Medium,280,6,16,4480,89.6,4390.4
+01-10-2017,Channel Partners,Mumbai,Pencil,Medium,1393,4,14,19502,390.04,19111.96
+01-12-2017,Channel Partners,Bangalore,Pencil,None,2015,4,14,28210,564.2,27645.8
+01-07-2017,Small Business,Chennai,Sharpner,None,801,2,12,9612,192.24,9419.76
+01-09-2017,Enterprise,Mumbai,Cello Tape,None,1023,6,16,16368,327.36,16040.64
+01-10-2017,Small Business,Kolkata,Eraser,Low,1496,3,13,19448,388.96,19059.04
+01-10-2017,Small Business,Bangalore,Eraser,High,1010,3,13,13130,262.6,12867.4
+01-11-2017,Midmarket,Delhi,Long Note Book,High,1513,40,50,75650,1513,74137
+01-12-2017,Midmarket,Kolkata,A4 Sheet,None,2300,120,130,299000,5980,293020
+01-12-2017,Enterprise,Chennai,Pen Stand,None,2821,25,35,98735,1974.7,96760.3
+01-01-2017,Government,Kolkata,Pen Stand,Medium,2227.5,25,35,77962.5,1559.25,76403.25
+01-04-2017,Government,Delhi,Pen,Medium,1199,5,15,17985,359.7,17625.3
+01-05-2017,Government,Kolkata,Cello Tape,None,200,6,16,3200,64,3136
+01-09-2017,Government,Kolkata,Pen Stand,None,388,25,35,13580,271.6,13308.4
+01-10-2017,Government,Chennai,Pen,None,1727,5,15,25905,518.1,25386.9
+01-12-2017,Midmarket,Kolkata,Sharpner,None,2300,2,12,27600,552,27048
+01-02-2017,Government,Chennai,Long Note Book,Low,260,40,50,13000,260,12740
+01-09-2017,Midmarket,Kolkata,Pen,High,2470,5,15,37050,741,36309
+01-10-2017,Midmarket,Kolkata,Eraser,High,1743,3,13,22659,453.18,22205.82
+01-10-2017,Channel Partners,Bangalore,Long Note Book,None,2914,40,50,145700,2914,142786
+01-10-2017,Government,Mumbai,Pen,None,1731,5,15,25965,519.3,25445.7
+01-11-2017,Government,Kolkata,Note Book,Medium,700,30,40,28000,560,27440
+01-11-2017,Channel Partners,Kolkata,Sharpner,Medium,2222,2,12,26664,533.28,26130.72
+01-11-2017,Government,Bangalore,Long Note Book,None,1177,40,50,58850,1177,57673
+01-11-2017,Government,Mumbai,Eraser,None,1922,3,13,24986,499.72,24486.28
+01-02-2017,Enterprise,Chennai,Sharpner,None,1575,2,12,18900,378,18522
+01-04-2017,Government,Bangalore,Note Book,Low,606,30,40,24240,484.8,23755.2
+01-07-2017,Small Business,Bangalore,Eraser,High,2460,3,13,31980,639.6,31340.4
+01-10-2017,Small Business,Kolkata,Pen Stand,High,269,25,35,9415,188.3,9226.7
+01-11-2017,Small Business,Delhi,Cover File,None,2536,20,30,76080,1521.6,74558.4
+01-03-2017,Government,Chennai,Long Note Book,None,2903,40,50,145150,2903,142247
+01-08-2017,Small Business,Bangalore,Cello Tape,Medium,2541,6,16,40656,813.12,39842.88
+01-10-2017,Small Business,Kolkata,Note Book,Medium,269,30,40,10760,215.2,10544.8
+01-10-2017,Small Business,Kolkata,Pencil,None,1496,4,14,20944,418.88,20525.12
+01-10-2017,Small Business,Bangalore,Pen,None,1010,5,15,15150,303,14847
+01-12-2017,Government,Mumbai,Eraser,None,1281,3,13,16653,333.06,16319.94
+01-03-2017,Small Business,Kolkata,Note Book,None,888,30,40,35520,710.4,34809.6
+01-05-2017,Enterprise,Bangalore,Sharpner,Low,2844,2,12,34128,682.56,33445.44
+01-08-2017,Channel Partners,Mumbai,Pencil,High,2475,4,14,34650,693,33957
+01-10-2017,Midmarket,Kolkata,A4 Sheet,High,1743,120,130,226590,4531.8,222058.2
+01-10-2017,Channel Partners,Bangalore,Long Note Book,None,2914,40,50,145700,2914,142786
+01-10-2017,Government,Mumbai,Sharpner,None,1731,2,12,20772,415.44,20356.56
+01-10-2017,Government,Chennai,Cello Tape,Medium,1727,6,16,27632,552.64,27079.36
+01-11-2017,Midmarket,Chennai,Pen,Medium,1870,5,15,28050,561,27489
+01-08-2017,Enterprise,Mumbai,A4 Sheet,None,1174,120,130,152620,3052.4,149567.6
+01-08-2017,Enterprise,Delhi,Note Book,None,2767,30,40,110680,2213.6,108466.4
+01-10-2017,Enterprise,Delhi,Cover File,None,1085,20,30,32550,651,31899
+01-10-2017,Small Business,Chennai,Pen Stand,Low,546,25,35,19110,382.2,18727.8
+01-03-2017,Government,Delhi,Eraser,High,1158,3,13,15054,301.08,14752.92
+01-04-2017,Midmarket,Kolkata,Cello Tape,High,1614,6,16,25824,516.48,25307.52
+01-04-2017,Government,Chennai,Folder,None,2535,10,20,50700,1014,49686
+01-05-2017,Government,Chennai,A4 Sheet,None,2851,120,130,370630,7412.6,363217.4
+01-08-2017,Midmarket,Kolkata,Long Note Book,Medium,2559,40,50,127950,2559,125391
+01-10-2017,Government,Bangalore,Pen,Medium,267,5,15,4005,80.1,3924.9
+01-10-2017,Enterprise,Delhi,Sharpner,None,1085,2,12,13020,260.4,12759.6
+01-10-2017,Midmarket,Delhi,Pen Stand,None,1175,25,35,41125,822.5,40302.5
+01-11-2017,Government,Bangalore,Eraser,None,2007,3,13,26091,521.82,25569.18
+01-11-2017,Government,Chennai,Pencil,None,2151,4,14,30114,602.28,29511.72
+01-12-2017,Channel Partners,Bangalore,Note Book,Low,914,30,40,36560,731.2,35828.8
+01-12-2017,Government,Mumbai,A4 Sheet,High,293,120,130,38090,761.8,37328.2
+01-03-2017,Channel Partners,Chennai,Pen,High,500,5,15,7500,150,7350
+01-05-2017,Midmarket,Mumbai,Sharpner,None,2826,2,12,33912,678.24,33233.76
+01-09-2017,Enterprise,Mumbai,Long Note Book,None,663,40,50,33150,663,32487
+01-11-2017,Small Business,Bangalore,Pen,Medium,2574,5,15,38610,772.2,37837.8
+01-12-2017,Enterprise,Bangalore,Pencil,Medium,2438,4,14,34132,682.64,33449.36
+01-12-2017,Channel Partners,Bangalore,Pen Stand,None,914,25,35,31990,639.8,31350.2
+01-07-2017,Government,Kolkata,Cover File,None,865.5,20,30,25965,519.3,25445.7
+01-07-2017,Midmarket,Delhi,Folder,None,492,10,20,9840,196.8,9643.2
+01-10-2017,Government,Bangalore,Sharpner,Low,267,2,12,3204,64.08,3139.92
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
