@@ -1,4 +1,4 @@
-# Discount-Profit Analysis Dashboard – 2024 Prelims
+# Discount-Profit Analysis Dashboard 
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes sales data from the *ClioMatrix Prelims 2024* dataset, offering a comprehensive view of performance across product lines, cities, customer segments, and discount bands. The goal is to generate actionable insights around sales, profitability, pricing strategies, and regional performance.
